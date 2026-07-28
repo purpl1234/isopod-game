@@ -4081,7 +4081,7 @@ const IsopodGameWithLeaderboard = () => {
   const [showCardUnlock, setShowCardUnlock] = useState(false);
   const [cardCollection, setCardCollection] = useState(initializeCardCollection());
 const [selectedCardId, setSelectedCardId] = useState(null);
-  const [cardLibraryDifficulty, setCardLibraryDifficulty] = useState('all');
+  
  
 
 useEffect(() => {
@@ -4115,10 +4115,28 @@ useEffect(() => {
 
   // 重置时间
   useEffect(() => {
-    if (gameState === 'playing') {
-      setTimeLeft(60);
-    }
-  }, [currentQuestion]);
+  if (gameState !== 'playing') return;
+  
+  const timer = setInterval(() => {
+    setTimeLeft(prev => {
+      if (prev <= 1) {
+        playSound('timeout');
+        setAnswers([...answers, -1]);
+        setTimeout(() => {
+          if (currentQuestion < questions.length - 1) {
+            setCurrentQuestion(currentQuestion + 1);
+          } else {
+            setGameState('results');
+          }
+        }, 500);
+        return 60;
+      }
+      return prev - 1;
+    });
+  }, 1000);
+  
+  return () => clearInterval(timer);
+}, [gameState, currentQuestion, questions.length, answers]);
 
   // 載入排行榜
 const loadLeaderboard = async () => {
