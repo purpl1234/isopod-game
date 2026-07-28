@@ -4097,21 +4097,28 @@ useEffect(() => {
 
   // 倒计时逻辑
   useEffect(() => {
-    if (gameState !== 'playing') return;
-    
-    const timer = setInterval(() => {
-      setTimeLeft(prev => {
-        if (prev <= 1) {
-          playSound('timeout');
-          handleTimeOut();
-          return 60;
-        }
-        return prev - 1;
-      });
-    }, 1000);
-    
-    return () => clearInterval(timer);
-  }, [gameState, currentQuestion]);
+  if (gameState !== 'playing') return;
+  
+  const timer = setInterval(() => {
+    setTimeLeft(prev => {
+      if (prev <= 1) {
+        playSound('timeout');
+        setAnswers([...answers, -1]);
+        setTimeout(() => {
+          if (currentQuestion < questions.length - 1) {
+            setCurrentQuestion(currentQuestion + 1);
+          } else {
+            setGameState('results');
+          }
+        }, 500);
+        return 60;
+      }
+      return prev - 1;
+    });
+  }, 1000);
+  
+  return () => clearInterval(timer);
+}, [gameState, currentQuestion, questions.length, answers]);
 
   // 重置时间
   useEffect(() => {
@@ -4269,27 +4276,7 @@ const loadLeaderboard = async () => {
     }, 500);
   };
 
-  const handleTimeOut = () => {
-    setAnswers([...answers, -1]);
-    
-    setTimeout(() => {
-      if (currentQuestion < questions.length - 1) {
-        setCurrentQuestion(currentQuestion + 1);
-      } else {
-        const updatedCollection = updateCardStats(difficulty, score, { ...cardCollection });
-        const { unlockedCards } = checkAndUnlockCards(updatedCollection);
-        
-        if (unlockedCards.length > 0) {
-          unlockedCards.forEach(() => playSound('unlock'));
-          setNewUnlockedCards(unlockedCards);
-          setShowCardUnlock(true);
-        }
-        
-        setCardCollection(updatedCollection);
-        setGameState('results');
-      }
-    }, 500);
-  };
+  
 
   const resetGame = () => {
     setGameState('start');
