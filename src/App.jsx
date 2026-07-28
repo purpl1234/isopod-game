@@ -1,5 +1,4 @@
 import React, { useState, useEffect } from 'react';
-import { RotateCcw, Trophy, LogOut } from 'lucide-react';
 import { initializeApp } from 'firebase/app';
 import { getFirestore, collection, query, where, orderBy, limit, getDocs, setDoc, doc } from 'firebase/firestore';
 import { getAuth, signInAnonymously } from 'firebase/auth';
@@ -4077,13 +4076,13 @@ const IsopodGameWithLeaderboard = () => {
   const [showAdminLogin, setShowAdminLogin] = useState(false);
   const [isAdminMode, setIsAdminMode] = useState(false);
   const [timeLeft, setTimeLeft] = useState(60);
-  const [backgroundMusic, setBackgroundMusic] = useState(null);
-  const [musicVolume, setMusicVolume] = useState(0.3);
-  const [cardCollection, setCardCollection] = useState(initializeCardCollection());
+  
   const [newUnlockedCards, setNewUnlockedCards] = useState([]);
   const [showCardUnlock, setShowCardUnlock] = useState(false);
+  const [cardCollection, setCardCollection] = useState(initializeCardCollection());
+const [selectedCardId, setSelectedCardId] = useState(null);
   const [cardLibraryDifficulty, setCardLibraryDifficulty] = useState('all');
-  const [selectedCardId, setSelectedCardId] = useState(null);
+ 
 
 useEffect(() => {
     console.log('gameState:', gameState, 'showDifficultySelect:', showDifficultySelect);
