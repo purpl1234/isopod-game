@@ -1,0 +1,2408 @@
+{
+  "easy": [
+  {
+    "q": { "type": "text", "content": "鼠婦在生物學上屬於哪個門？" },
+    "options": [
+      { "type": "text", "content": "節肢動物門" },
+      { "type": "text", "content": "軟體動物門" },
+      { "type": "text", "content": "環節動物門" },
+      { "type": "text", "content": "脊索動物門" }
+    ],
+    "correct": 0,
+    "explanation": "鼠婦在生物學上屬於節肢動物門"
+  },
+  {
+    "q": { "type": "text", "content": "鼠婦屬於節肢動物門中的哪一個亞門？" },
+    "options": [
+      { "type": "text", "content": "多足亞門" },
+      { "type": "text", "content": "甲殼亞門" },
+      { "type": "text", "content": "螯肢亞門" },
+      { "type": "text", "content": "六足亞門" }
+    ],
+    "correct": 1,
+    "explanation": "鼠婦屬於甲殼亞門"
+  },
+  {
+    "q": { "type": "text", "content": "鼠婦屬於甲殼亞門的哪一個綱？" },
+    "options": [
+      { "type": "text", "content": "鰓足綱" },
+      { "type": "text", "content": "頭胸綱" },
+      { "type": "text", "content": "軟甲綱" },
+      { "type": "text", "content": "介形綱" }
+    ],
+    "correct": 2,
+    "explanation": "鼠婦屬於軟甲綱"
+  },
+  {
+    "q": { "type": "text", "content": "鼠婦屬於軟甲綱的哪一個目？" },
+    "options": [
+      { "type": "text", "content": "端足目" },
+      { "type": "text", "content": "等足目 Isopoda" },
+      { "type": "text", "content": "十足目" },
+      { "type": "text", "content": "磷蝦目" }
+    ],
+    "correct": 1,
+    "explanation": "鼠婦屬於等足目 Isopoda"
+  },
+  {
+    "q": { "type": "text", "content": "鼠婦在分類上與龍蝦、螃蟹等水生生物有親緣關係嗎？" },
+    "options": [
+      { "type": "text", "content": "沒有，完全不同類" },
+      { "type": "text", "content": "有，同屬於甲殼類" },
+      { "type": "text", "content": "僅遠親，屬於昆蟲類" },
+      { "type": "text", "content": "屬於蛛形類" }
+    ],
+    "correct": 1,
+    "explanation": "鼠婦與龍蝦、螃蟹同屬於甲殼類"
+  },
+  {
+    "q": { "type": "text", "content": "鼠婦與昆蟲最大的生物學差異之一在於鼠婦有幾對步足？" },
+    "options": [
+      { "type": "text", "content": "3對，共6隻腳" },
+      { "type": "text", "content": "5對，共10隻腳" },
+      { "type": "text", "content": "7對，共14隻腳" },
+      { "type": "text", "content": "9對，共18隻腳" }
+    ],
+    "correct": 2,
+    "explanation": "鼠婦有7對步足，共14隻腳"
+  },
+  {
+    "q": { "type": "text", "content": "悶葉的主要作用是？" },
+    "options": [
+      { "type": "text", "content": "鼠婦愛好玩" },
+      { "type": "text", "content": "放盒裡好看" },
+      { "type": "text", "content": "裝飾用而已" },
+      { "type": "text", "content": "好吃不發霉" }
+    ],
+    "correct": 3,
+    "explanation": "悶葉不易發霉，容易入□"
+  },
+  {
+    "q": { "type": "text", "content": "一般昆蟲具有翅膀，寵物鼠婦成體是否有翅膀？" },
+    "options": [
+      { "type": "text", "content": "有一對翅膀" },
+      { "type": "text", "content": "有兩對翅膀" },
+      { "type": "text", "content": "退化成平衡棒" },
+      { "type": "text", "content": "完全沒有" }
+    ],
+    "correct": 3,
+    "explanation": "寵物鼠婦成體完全沒有翅膀"
+  },
+  {
+    "q": { "type": "text", "content": "鼠婦的腹部通常具有類似魚類的什麼構造來進行呼吸？" },
+    "options": [
+      { "type": "text", "content": "氣管與微氣管" },
+      { "type": "text", "content": "書肺" },
+      { "type": "text", "content": "偽氣管 / 氣鰓" },
+      { "type": "text", "content": "肺泡" }
+    ],
+    "correct": 2,
+    "explanation": "鼠婦的腹部通常具有偽氣管或氣鰓來進行呼吸"
+  },
+  {
+    "q": { "type": "text", "content": "鼠婦呼吸需要什麼樣的環境條件？" },
+    "options": [
+      { "type": "text", "content": "必須維持乾燥以避免窒息" },
+      { "type": "text", "content": "必須維持濕潤才能進行氣體交換" },
+      { "type": "text", "content": "完全無水的高溫環境" },
+      { "type": "text", "content": "真空密封環境" }
+    ],
+    "correct": 1,
+    "explanation": "鼠婦呼吸必須維持濕潤才能進行氣體交換"
+  },
+  {
+    "q": { "type": "text", "content": "俗稱的「團子蟲」或「滾蟲」受到驚嚇時會發生什麼事？" },
+    "options": [
+      { "type": "text", "content": "原地起飛逃跑" },
+      { "type": "text", "content": "分泌大量毒液" },
+      { "type": "text", "content": "將身體捲曲成完美球體" },
+      { "type": "text", "content": "變色與環境融合" }
+    ],
+    "correct": 2,
+    "explanation": "團子蟲受到驚嚇時會將身體捲曲成完美球體"
+  },
+  {
+    "q": { "type": "text", "content": "所有種類的鼠婦都能將身體完全捲成球狀嗎？" },
+    "options": [
+      { "type": "text", "content": "可以，全部都能" },
+      { "type": "text", "content": "不行，只有部分種類可以" },
+      { "type": "text", "content": "只有幼體可以，成體不行" },
+      { "type": "text", "content": "只有夜晚才可以" }
+    ],
+    "correct": 1,
+    "explanation": "只有部分種類的鼠婦可以將身體完全捲成球狀"
+  },
+  {
+    "q": { "type": "text", "content": "當無法完全捲成球狀時，鼠婦通常會採取什麼防禦姿態？" },
+    "options": [
+      { "type": "text", "content": "平趴貼地或逃竄，部分會假死" },
+      { "type": "text", "content": "主動向敵人發動攻擊" },
+      { "type": "text", "content": "將身體高高豎起" },
+      { "type": "text", "content": "發出高頻聲音嚇退敵害" }
+    ],
+    "correct": 0,
+    "explanation": "無法完全捲成球狀時，鼠婦通常會平趴貼地或逃竄，部分會假死"
+  },
+  {
+    "q": { "type": "text", "content": "鼠婦在生態系中扮演什麼角色，主要加速有機質分解？" },
+    "options": [
+      { "type": "text", "content": "頂級掠食者" },
+      { "type": "text", "content": "初級生產者" },
+      { "type": "text", "content": "清道夫 / 分解者" },
+      { "type": "text", "content": "傳授花粉者" }
+    ],
+    "correct": 2,
+    "explanation": "鼠婦在生態系中扮演清道夫或分解者"
+  },
+  {
+    "q": { "type": "text", "content": "飼養寵物鼠婦時，飼養箱內最重要的鋪底介質是什麼？" },
+    "options": [
+      { "type": "text", "content": "純沙子石礫" },
+      { "type": "text", "content": "腐植土 / 泥炭土 / 椰纖土" },
+      { "type": "text", "content": "木屑" },
+      { "type": "text", "content": "衛生紙" }
+    ],
+    "correct": 1,
+    "explanation": "飼養寵物鼠婦時最重要的鋪底介質是腐植土、泥炭土或椰纖土"
+  },
+  {
+    "q": { "type": "text", "content": "為了提供鼠婦鈣質與磨牙、硬化外殼，飼養箱內必須長期放置什麼？" },
+    "options": [
+      { "type": "text", "content": "墨魚骨 / 鈣塊" },
+      { "type": "text", "content": "鐵塊" },
+      { "type": "text", "content": "木片" },
+      { "type": "text", "content": "指甲" }
+    ],
+    "correct": 0,
+    "explanation": "飼養箱內必須長期放置墨魚骨或鈣塊以提供鈣質"
+  },
+  {
+    "q": { "type": "text", "content": "飼養環境中不可或缺的碳源與躲避處是什麼？" },
+    "options": [
+      { "type": "text", "content": "塑膠玩具" },
+      { "type": "text", "content": "落葉 / 枯葉" },
+      { "type": "text", "content": "金屬網" },
+      { "type": "text", "content": "海綿" }
+    ],
+    "correct": 1,
+    "explanation": "飼養環境中不可或缺的碳源與躲避處是落葉或枯葉"
+  },
+  {
+    "q": { "type": "text", "content": "鼠婦在成長過程中會分段脫去外殼，這種現象稱為甚麼？" },
+    "options": [
+      { "type": "text", "content": "變態" },
+      { "type": "text", "content": "蛻皮 / 脫殼 Ecdysis" },
+      { "type": "text", "content": "羽化" },
+      { "type": "text", "content": "休眠" }
+    ],
+    "correct": 1,
+    "explanation": "鼠婦分段脫去外殼的現象稱為蛻皮或脫殼"
+  },
+  {
+    "q": { "type": "text", "content": "鼠婦的蛻皮過程通常是分幾次完成的？" },
+    "options": [
+      { "type": "text", "content": "一次性直接脫完" },
+      { "type": "text", "content": "分前後兩段，俗稱「分段蛻皮」" },
+      { "type": "text", "content": "分三段脫完" },
+      { "type": "text", "content": "分四段脫完" }
+    ],
+    "correct": 1,
+    "explanation": "鼠婦的蛻皮過程通常分前後兩段完成"
+  },
+  {
+    "q": { "type": "text", "content": "剛蛻皮完的鼠婦外殼通常呈現什麼狀態？" },
+    "options": [
+      { "type": "text", "content": "堅硬且呈深黑色" },
+      { "type": "text", "content": "柔軟、呈白色或半透明" },
+      { "type": "text", "content": "帶有刺狀硬殼" },
+      { "type": "text", "content": "完全消失沒有外殼" }
+    ],
+    "correct": 1,
+    "explanation": "剛蛻皮完的鼠婦外殼柔軟、呈白色或半透明"
+  },
+  {
+    "q": { "type": "text", "content": "剛蛻皮的鼠婦會將自己脫下來的舊殼怎麼處理？" },
+    "options": [
+      { "type": "text", "content": "直接丟棄不管" },
+      { "type": "text", "content": "埋入土裡做肥料" },
+      { "type": "text", "content": "通常會吃掉以回收鈣質與營養" },
+      { "type": "text", "content": "送給同伴吃" }
+    ],
+    "correct": 2,
+    "explanation": "剛蛻皮的鼠婦通常會吃掉舊殼以回收鈣質與營養"
+  },
+  {
+    "q": { "type": "text", "content": "絕大多數寵物鼠婦適宜的環境溫度大約落在攝氏幾度之間？" },
+    "options": [
+      { "type": "text", "content": "10°C 至 15°C 左右" },
+      { "type": "text", "content": "20°C 至 28°C 左右" },
+      { "type": "text", "content": "32°C 至 40°C 左右" },
+      { "type": "text", "content": "40°C 以上" }
+    ],
+    "correct": 1,
+    "explanation": "絕大多數寵物鼠婦適宜的環境溫度大約在 20°C 至 28°C 左右"
+  },
+  {
+    "q": { "type": "text", "content": "飼養環境若長期處於高溫（如超過 30°C 以上）對多數鼠婦會造成什麼影響？" },
+    "options": [
+      { "type": "text", "content": "生長速度變快數倍" },
+      { "type": "text", "content": "顏色變得更鮮豔" },
+      { "type": "text", "content": "容易熱衰竭死亡" },
+      { "type": "text", "content": "進入冬眠狀態" }
+    ],
+    "correct": 2,
+    "explanation": "長期處於高溫容易導致多數鼠婦熱衰竭死亡"
+  },
+  {
+    "q": { "type": "text", "content": "飼養盒內通常需要設置什麼來平衡濕度？" },
+    "options": [
+      { "type": "text", "content": "全乾沙灘區" },
+      { "type": "text", "content": "完全淹水區" },
+      { "type": "text", "content": "乾濕分離區 / 局部保濕水苔" },
+      { "type": "text", "content": "強力烘乾機" }
+    ],
+    "correct": 2,
+    "explanation": "飼養盒內通常需要設置乾濕分離區或局部保濕水苔來平衡濕度"
+  },
+  {
+    "q": { "type": "text", "content": "為什麼不能讓整個鼠婦飼養盒長期處於滴水的大水淹狀態？" },
+    "options": [
+      { "type": "text", "content": "會導致鼠婦窒息死亡" },
+      { "type": "text", "content": "會讓鼠婦長出翅膀" },
+      { "type": "text", "content": "會使鼠婦體型變大" },
+      { "type": "text", "content": "會將鼠婦洗乾淨" }
+    ],
+    "correct": 0,
+    "explanation": "長期處於大水淹狀態會導致鼠婦窒息死亡"
+  },
+  {
+    "q": { "type": "text", "content": "鼠婦的主要食物來源之一，可以用來補充蛋白質的是什麼？" },
+    "options": [
+      { "type": "text", "content": "塑膠廢料" },
+      { "type": "text", "content": "枯木 / 白木 / 魚飼料 / 昆蟲凍餌" },
+      { "type": "text", "content": "純淨自來水" },
+      { "type": "text", "content": "細沙" }
+    ],
+    "correct": 1,
+    "explanation": "鼠婦可食用枯木、白木、魚飼料或昆蟲凍餌來補充蛋白質"
+  },
+  {
+    "q": { "type": "text", "content": "鼠婦喜歡陰暗潮濕的環境，牠們對強烈光線有什麼行為反應？" },
+    "options": [
+      { "type": "text", "content": "正趨光性，會主動靠近光源" },
+      { "type": "text", "content": "負趨光性，會迅速逃往陰暗處" },
+      { "type": "text", "content": "完全不受光線影響" },
+      { "type": "text", "content": "見到強光會唱歌" }
+    ],
+    "correct": 1,
+    "explanation": "鼠婦具有負趨光性，會迅速逃往陰暗處"
+  },
+  {
+    "q": { "type": "text", "content": "常見超會生的「橘色鼠婦」屬於哪一種常見的基礎入門品種？" },
+    "options": [
+      { "type": "text", "content": "橘光滑鼠婦" },
+      { "type": "text", "content": "黃頭鴨" },
+      { "type": "text", "content": "斑馬鼠婦" },
+      { "type": "text", "content": "熊貓鼠婦" }
+    ],
+    "correct": 0,
+    "explanation": "橘色鼠婦屬於橘色光滑鼠婦 (Porcellio laevis 'Orange')"
+  },
+  {
+    "q": { "type": "text", "content": "熊貓王鼠婦的學名所屬屬別為何？" },
+    "options": [
+      { "type": "text", "content": "Cubaris" },
+      { "type": "text", "content": "Armadillidium" },
+      { "type": "text", "content": "Porcellio laevis" },
+      { "type": "text", "content": "Merulanella" }
+    ],
+    "correct": 0,
+    "explanation": "熊貓王鼠婦的學名屬於 Cubaris sp. Panda King"
+  },
+  {
+    "q": { "type": "text", "content": "乳牛鼠婦（Dairy Cow）具有什麼外觀特徵？" },
+    "options": [
+      { "type": "text", "content": "全透明無色" },
+      { "type": "text", "content": "白色身體帶有不規則黑色斑點" },
+      { "type": "text", "content": "鮮紅色帶黃條紋" },
+      { "type": "text", "content": "深藍色帶螢光" }
+    ],
+    "correct": 1,
+    "explanation": "乳牛鼠婦具有白色身體帶不規則黑色斑點的外觀"
+  },
+  {
+    "q": { "type": "text", "content": "乳牛鼠婦的繁殖能力與生長速度通常如何？" },
+    "options": [
+      { "type": "text", "content": "極快、食量大、非常多產" },
+      { "type": "text", "content": "極慢、數年才生一次" },
+      { "type": "text", "content": "無法在人工環境繁殖" },
+      { "type": "text", "content": "一生只產一隻幼體" }
+    ],
+    "correct": 0,
+    "explanation": "乳牛鼠婦的繁殖能力極快、食量大且非常多產"
+  },
+  {
+    "q": { "type": "text", "content": "下面那一種是土王？" },
+    "options": [
+      { "type": "text", "content": "木星" },
+      { "type": "text", "content": "大新三色" },
+      { "type": "text", "content": "螢火蟲" },
+      { "type": "text", "content": "琥珀" }
+    ],
+    "correct": 1,
+    "explanation": "大新三色土王"
+  },
+  {
+    "q": { "type": "text", "content": "俗稱「捲球鼠婦」的代表性常見種，學名為什麼？" },
+    "options": [
+      { "type": "text", "content": "Armadillidium vulgare" },
+      { "type": "text", "content": "Trichorhina tomentosa" },
+      { "type": "text", "content": "Porcellio dilatatus" },
+      { "type": "text", "content": "Cubaris murina" }
+    ],
+    "correct": 0,
+    "explanation": "捲球鼠婦的代表性常見種學名為 Armadillidium vulgare"
+  },
+  {
+    "q": { "type": "text", "content": "捲球鼠婦（Armadillidium vulgare）最經典的野生斑紋是什麼顏色？" },
+    "options": [
+      { "type": "text", "content": "亮桃紅色帶紫點" },
+      { "type": "text", "content": "灰黑帶有黃白色小斑點" },
+      { "type": "text", "content": "純白色無雜斑" },
+      { "type": "text", "content": "螢光綠帶黑條紋" }
+    ],
+    "correct": 1,
+    "explanation": "捲球鼠婦最經典的野生斑紋為灰黑帶有黃白色小斑點"
+  },
+  {
+    "q": { "type": "text", "content": "斑馬鼠婦（Armadillidium maculatum）的外觀有什麼顯著特徵？" },
+    "options": [
+      { "type": "text", "content": "黃底帶有明顯的黑色直條紋，像斑馬" },
+      { "type": "text", "content": "全身長滿尖刺" },
+      { "type": "text", "content": "擁有巨大像螃蟹的雙螯" },
+      { "type": "text", "content": "身體呈透明圓形" }
+    ],
+    "correct": 0,
+    "explanation": "斑馬鼠婦外觀為黃底帶有明顯的黑色直條紋"
+  },
+  {
+    "q": { "type": "text", "content": "斑馬鼠婦原產於哪一個國家？" },
+    "options": [
+      { "type": "text", "content": "日本北海道" },
+      { "type": "text", "content": "克羅埃西亞等地中海區域" },
+      { "type": "text", "content": "巴西熱帶雨林" },
+      { "type": "text", "content": "冰島火山區" }
+    ],
+    "correct": 1,
+    "explanation": "斑馬鼠婦原產於克羅埃西亞等地中海區域"
+  },
+  {
+    "q": { "type": "text", "content": "白侏儒鼠婦（Trichorhina tomentosa）在生態缸（Bioactive setup）中常被當作什麼角色？" },
+    "options": [
+      { "type": "text", "content": "清潔大隊 / 活餌 / 清除線蟲與黴菌" },
+      { "type": "text", "content": "觀賞花卉裝飾" },
+      { "type": "text", "content": "空氣淨化器" },
+      { "type": "text", "content": "土壤挖掘機" }
+    ],
+    "correct": 0,
+    "explanation": "白侏儒鼠婦在生態缸中常被當作清潔大隊與清除線蟲黴菌的角色"
+  },
+  {
+    "q": { "type": "text", "content": "白侏儒鼠婦是否能夠將身體捲成球狀？" },
+    "options": [
+      { "type": "text", "content": "可以，捲得很完美" },
+      { "type": "text", "content": "不能" },
+      { "type": "text", "content": "只有受傷時可以" },
+      { "type": "text", "content": "老了以後才能" }
+    ],
+    "correct": 1,
+    "explanation": "侏儒白鼠婦不能將身體捲成球狀"
+  },
+  {
+    "q": { "type": "text", "content": "絕大多數的白侏儒鼠婦（Trichorhina tomentosa）性別組成通常全都是什麼性別？" },
+    "options": [
+      { "type": "text", "content": "全部都是雄性" },
+      { "type": "text", "content": "雌雄各半" },
+      { "type": "text", "content": "雌性，透過孤雌生殖繁殖" },
+      { "type": "text", "content": "無性別可言" }
+    ],
+    "correct": 2,
+    "explanation": "絕大多數白侏儒鼠婦全都是雌性，透過孤雌生殖繁殖"
+  },
+  {
+    "q": { "type": "text", "content": "觀賞寵物鼠婦時，飼養容器通常需要具備什麼設計以維持空氣流通？" },
+    "options": [
+      { "type": "text", "content": "通風孔 / 透氣網" },
+      { "type": "text", "content": "完全密封無孔洞" },
+      { "type": "text", "content": "水冷循環扇" },
+      { "type": "text", "content": "高溫加熱器" }
+    ],
+    "correct": 0,
+    "explanation": "飼養容器需要具備通風孔或透氣網以維持空氣流通"
+  },
+  {
+    "q": { "type": "text", "content": "如果飼養盒完全密閉且沒有通風，會導致什麼問題？" },
+    "options": [
+      { "type": "text", "content": "鼠婦會長得更胖" },
+      { "type": "text", "content": "悶熱、滋生細菌、二氧化碳過高致死" },
+      { "type": "text", "content": "完全沒有影響" },
+      { "type": "text", "content": "鼠婦會學會冬眠" }
+    ],
+    "correct": 1,
+    "explanation": "完全密閉無通風會導致悶熱、滋生細菌與二氧化碳過高致死"
+  },
+  {
+    "q": { "type": "text", "content": "鼠婦的糞便外觀通常呈現什麼形狀？" },
+    "options": [
+      { "type": "text", "content": "圓球形小珍珠" },
+      { "type": "text", "content": "細長的絲狀物" },
+      { "type": "text", "content": "微小的長條狀顆粒" },
+      { "type": "text", "content": "液態狀黏液" }
+    ],
+    "correct": 2,
+    "explanation": "鼠婦的糞便外觀通常呈現微小的長條狀顆粒"
+  },
+  {
+    "q": { "type": "text", "content": "鼠婦幼體（Mancae）剛出生時，外觀與成體有何差異？" },
+    "options": [
+      { "type": "text", "content": "顏色較淡、體型極小、少一對步足" },
+      { "type": "text", "content": "外殼已經非常堅硬且呈黑色" },
+      { "type": "text", "content": "比成體還要大兩倍" },
+      { "type": "text", "content": "長有成對的翅膀" }
+    ],
+    "correct": 0,
+    "explanation": "鼠婦幼體剛出生時顏色較淡、體型極小且少一對步足"
+  },
+  {
+    "q": { "type": "text", "content": "鼠婦幼體剛孵化時通常是由母體的什麼構造保護？" },
+    "options": [
+      { "type": "text", "content": "背上的硬殼" },
+      { "type": "text", "content": "育幼囊 / Marsupium" },
+      { "type": "text", "content": "口器中的暫存袋" },
+      { "type": "text", "content": "尾巴的氣泡" }
+    ],
+    "correct": 1,
+    "explanation": "鼠婦幼體剛孵化時由母體的育幼囊保護"
+  },
+  {
+    "q": { "type": "text", "content": "母鼠婦腹部的育幼囊位於哪裡？" },
+    "options": [
+      { "type": "text", "content": "頭部的下方口器旁" },
+      { "type": "text", "content": "腹部腹面的育兒袋結構" },
+      { "type": "text", "content": "尾節的末端" },
+      { "type": "text", "content": "背甲的正中央" }
+    ],
+    "correct": 1,
+    "explanation": "母鼠婦的育幼囊位於腹部腹面的育兒袋結構"
+  },
+  {
+    "q": { "type": "text", "content": "鼠婦是否屬於昆蟲？" },
+    "options": [
+      { "type": "text", "content": "是，屬於節肢動物門昆蟲綱" },
+      { "type": "text", "content": "不是，是甲殼類" },
+      { "type": "text", "content": "屬於軟體動物" },
+      { "type": "text", "content": "屬於環節動物" }
+    ],
+    "correct": 1,
+    "explanation": "鼠婦不是昆蟲，而是甲殼類"
+  },
+  {
+    "q": { "type": "text", "content": "寵物鼠婦死亡時，外殼通常會變成麼顏色？" },
+    "options": [
+      { "type": "text", "content": "變得更加烏黑發亮" },
+      { "type": "text", "content": "通常會變成粉紅色、橘紅色或全白色" },
+      { "type": "text", "content": "變成螢光綠色" },
+      { "type": "text", "content": "外殼完全透明消失" }
+    ],
+    "correct": 1,
+    "explanation": "寵物鼠婦死亡時外殼通常會變成粉紅色、橘紅色或全白色"
+  },
+  {
+    "q": { "type": "text", "content": "為什麼飼養鼠婦需要鋪設一定深度的底土（例如 5 公分以上）？" },
+    "options": [
+      { "type": "text", "content": "為了讓鼠婦玩耍" },
+      { "type": "text", "content": "提供挖洞、保濕與產卵空間" },
+      { "type": "text", "content": "防止飼養箱重量太輕" },
+      { "type": "text", "content": "讓植物長得更快" }
+    ],
+    "correct": 1,
+    "explanation": "鋪設一定深度的底土可以提供挖洞、保濕與產卵空間"
+  },
+  {
+    "q": { "type": "text", "content": "餵食鼠婦蔬菜時，最需要注意什麼食安問題？" },
+    "options": [
+      { "type": "text", "content": "農藥殘留，必須清洗乾淨並擦乾" },
+      { "type": "text", "content": "蔬菜必須煮熟並加鹽調味" },
+      { "type": "text", "content": "只能餵食有機高級水果" },
+      { "type": "text", "content": "蔬菜必須先冷凍三天" }
+    ],
+    "correct": 0,
+    "explanation": "餵食蔬菜最需要注意農藥殘留，必須清洗乾淨並擦乾"
+  },
+  {
+    "q": { "type": "text", "content": "鼠婦可以餵食水果嗎？可以，但需要注意什麼現象？" },
+    "options": [
+      { "type": "text", "content": "容易腐爛長果蠅或發霉，需適量餵食並盡快清除殘渣" },
+      { "type": "text", "content": "水果會讓鼠婦中毒身亡" },
+      { "type": "text", "content": "水果會使鼠婦外殼脫落" },
+      { "type": "text", "content": "完全不需要清理殘渣" }
+    ],
+    "correct": 0,
+    "explanation": "餵食水果需注意容易腐爛長果蠅或發霉，應適量餵食並盡快清除殘渣"
+  }
+],
+"hard": [
+  {
+    "q": { "type": "text", "content": "鼠婦在陸地生活面臨的最大生理挑戰是什麼？" },
+    "options": [
+      { "type": "text", "content": "水分蒸發與排泄物氨氣處理" },
+      { "type": "text", "content": "尋找適合的飛行獵物" },
+      { "type": "text", "content": "抵抗紫外線輻射傷害" },
+      { "type": "text", "content": "維持體溫恆定與冬眠" }
+    ],
+    "correct": 0,
+    "explanation": "鼠婦在陸地生活面臨的最大生理挑戰是水分蒸發與排泄物氨氣處理"
+  },
+  {
+    "q": { "type": "text", "content": "陸生等足類動物（鼠婦）的排泄主要以哪種形式排出以節省水分？" },
+    "options": [
+      { "type": "text", "content": "大量清澈的稀釋尿液" },
+      { "type": "text", "content": "氨氣直接氣化或排出固態尿酸/氨鹽" },
+      { "type": "text", "content": "完全不排泄廢物" },
+      { "type": "text", "content": "經由口器吐出結晶體" }
+    ],
+    "correct": 1,
+    "explanation": "陸生等足類主要以氨氣直接氣化或排出固態尿酸/氨鹽來節省水分"
+  },
+  {
+    "q": { "type": "text", "content": "根據寵物飼養的分類習慣，常見的陸生鼠婦主要可劃分為哪四大科？" },
+    "options": [
+      { "type": "text", "content": "Armadillidae 卷甲蟲科、Armadillidiidae 球鼠婦科、Porcellionidae 鼠婦科、Philosciidae 平滑鼠婦科" },
+      { "type": "text", "content": "昆蟲綱、甲殼綱、多足綱、蛛形綱" },
+      { "type": "text", "content": "陸棲科、水棲科、洞穴科、沙漠科" },
+      { "type": "text", "content": "捲球科、跳躍科、攀爬科、鑽地科" }
+    ],
+    "correct": 0,
+    "explanation": "常見的陸生鼠婦主要可劃分為 Armadillidae、Armadillidiidae、Porcellionidae、Philosciidae 四大科"
+  },
+  {
+    "q": { "type": "text", "content": "Cubaris 屬（例如黃頭鴨、熊貓鼠婦等）在環境濕度需求上有什麼顯著特點？" },
+    "options": [
+      { "type": "text", "content": "喜歡極度乾燥通風的環境" },
+      { "type": "text", "content": "對濕度要求極高，通常需要高濕且穩定的環境" },
+      { "type": "text", "content": "完全不需要水份只需食物" },
+      { "type": "text", "content": "嚴格的乾濕分離區" }
+    ],
+    "correct": 1,
+    "explanation": "Cubaris 屬對濕度要求極高，通常需要高濕且穩定的環境"
+  },
+  {
+    "q": { "type": "text", "content": "Armadillidium 屬的鼠婦相較於 Cubaris 屬，對於通風與乾燥的耐受性如何？" },
+    "options": [
+      { "type": "text", "content": "耐受性較好，適應中等濕度" },
+      { "type": "text", "content": "完全不能接觸任何空氣" },
+      { "type": "text", "content": "比 Cubaris 更容易乾燥死亡" },
+      { "type": "text", "content": "必須完全泡在水中" }
+    ],
+    "correct": 0,
+    "explanation": "Armadillidium 屬對通風與乾燥的耐受性較好，適應中等濕度"
+  },
+  {
+    "q": { "type": "text", "content": "Porcellio 屬（如希臘寬邊、檸檬黃鼠婦等）在佈置飼養盒時，最適宜採用哪種環境配置？" },
+    "options": [
+      { "type": "text", "content": "全盒保持潮濕" },
+      { "type": "text", "content": "全盒保持乾燥少水" },
+      { "type": "text", "content": "嚴格的乾濕分離區},
+      { "type": "text", "content": "看心情給水" }
+    ],
+    "correct": 2,
+    "explanation": "Porcellio 屬最適宜採用嚴格的乾濕分離區，一端極濕、一端偏乾"
+  },
+  {
+    "q": { "type": "text", "content": "飼養環境中的 7 大關鍵環境因子分別為：通風、基質深度、基質濕度、落葉、木頭、墨魚骨以及什麼？" },
+    "options": [
+      { "type": "text", "content": "塑膠玩具" },
+      { "type": "text", "content": "水苔 / Sphagnum moss" },
+      { "type": "text", "content": "細沙石礫" },
+      { "type": "text", "content": "人工化學肥料" }
+    ],
+    "correct": 1,
+    "explanation": "飼養環境的 7 大關鍵環境因子包含水苔 / Sphagnum moss"
+  },
+  {
+    "q": { "type": "text", "content": "Cubaris sp. \"Rubber Ducky\"（黃頭鴨鼠婦）最著名的產地來自哪一個國家？" },
+    "options": [
+      { "type": "text", "content": "泰國" },
+      { "type": "text", "content": "西班牙" },
+      { "type": "text", "content": "義大利" },
+      { "type": "text", "content": "日本" }
+    ],
+    "correct": 0,
+    "explanation": "黃頭鴨鼠婦最著名的產地來自泰國"
+  },
+  {
+    "q": { "type": "text", "content": "黃頭鴨鼠婦（Rubber Ducky）的頭部前端外觀因為神似哪一種動物而得名？" },
+    "options": [
+      { "type": "text", "content": "小黃鴨的嘴喙" },
+      { "type": "text", "content": "兔子的大耳朵" },
+      { "type": "text", "content": "貓咪的鬍鬚" },
+      { "type": "text", "content": "大象的鼻子" }
+    ],
+    "correct": 0,
+    "explanation": "橡膠鴨仔鼠婦因頭部前端外觀神似小黃鴨的嘴喙而得名"
+  },
+  {
+    "q": { "type": "text", "content": "Cubaris sp. \"Panda King\"（熊貓王鼠婦）的頭部與尾端具有什麼標誌性色彩？" },
+    "options": [
+      { "type": "text", "content": "全身純粹的金黃色" },
+      { "type": "text", "content": "黑白相間，頭部有如熊貓黑眼圈的斑塊" },
+      { "type": "text", "content": "螢光綠色的條紋" },
+      { "type": "text", "content": "全透明的粉紅色" }
+    ],
+    "correct": 1,
+    "explanation": "熊貓王鼠婦具有黑白相間、頭部有如熊貓黑眼圈的斑塊標誌性色彩"
+  },
+  {
+    "q": { "type": "text", "content": "Armadillidium gestroi（法國四紋鼠婦）原產於哪裡？" },
+    "options": [
+      { "type": "text", "content": "義大利 / 地中海區域" },
+      { "type": "text", "content": "南美洲雨林" },
+      { "type": "text", "content": "北美洲沙漠" },
+      { "type": "text", "content": "法國" }
+    ],
+    "correct": 0,
+    "explanation": "法國四紋鼠婦原產於義大利等地中海區域"
+  },
+  {
+    "q": { "type": "text", "content": "法國四紋鼠婦（Armadillidium gestroi）背甲上佈滿了什麼形狀的鮮黃色斑紋？" },
+    "options": [
+      { "type": "text", "content": "不規則的亮黃色斑塊或圓斑" },
+      { "type": "text", "content": "整齊的方格條紋" },
+      { "type": "text", "content": "星形閃爍斑點" },
+      { "type": "text", "content": "直線狀斑馬紋" }
+    ],
+    "correct": 0,
+    "explanation": "黃斑巨球鼠婦背甲佈滿不規則的亮黃色斑塊或圓斑"
+  },
+  {
+    "q": { "type": "text", "content": "Porcellio屬鼠婦的體型在常見屬中具有什麼特徵？" },
+    "options": [
+      { "type": "text", "content": "體寬較寬、體型扁平、體型較大" },
+      { "type": "text", "content": "極度細長如針狀" },
+      { "type": "text", "content": "圓球狀完全無扁平感" },
+      { "type": "text", "content": "微小如灰塵的尺寸" }
+    ],
+    "correct": 0,
+    "explanation": "Porcellio屬鼠婦具有體寬較寬、體型扁平且體型較大的特徵"
+  },
+  {
+    "q": { "type": "text", "content": "Armadillidium klugii（黑山白點）背甲有什麼鮮豔裝飾？" },
+    "options": [
+      { "type": "text", "content": "帶有橘紅色或黃色的小白點及邊緣色彩" },
+      { "type": "text", "content": "純黑色的單調外殼" },
+      { "type": "text", "content": "巨大如鹿角般的突起" },
+      { "type": "text", "content": "透明無色的螢光" }
+    ],
+    "correct": 0,
+    "explanation": "黑山白點鼠婦背甲帶有橘紅色或黃色的小白點及邊緣色彩"
+  },
+  {
+    "q": { "type": "text", "content": "鼠婦的頭部附肢中，哪一對觸角特別發達且具有強烈的觸覺與嗅覺功能？" },
+    "options": [
+      { "type": "text", "content": "第一對觸角" },
+      { "type": "text", "content": "第二對觸角" },
+      { "type": "text", "content": "第三對觸角" },
+      { "type": "text", "content": "所有的觸角都一樣" }
+    ],
+    "correct": 1,
+    "explanation": "鼠婦的第二對觸角特別發達且具有強烈的觸覺與嗅覺功能"
+  },
+  {
+    "q": { "type": "text", "content": "鼠婦的第一對觸角在演化上呈現什麼狀態？" },
+    "options": [
+      { "type": "text", "content": "極度退化、短小" },
+      { "type": "text", "content": "異常巨大且分岔" },
+      { "type": "text", "content": "演化成翅膀構造" },
+      { "type": "text", "content": "完全消失不見" }
+    ],
+    "correct": 0,
+    "explanation": "鼠婦的第一對觸角在演化上呈現極度退化、短小的狀態"
+  },
+  {
+    "q": { "type": "text", "content": "鼠婦的眼睛屬於哪一種結構？" },
+    "options": [
+      { "type": "text", "content": "單眼，視力極佳" },
+      { "type": "text", "content": "複眼，但視力較差，主要依賴化學感覺與觸覺" },
+      { "type": "text", "content": "完全沒有視覺器官" },
+      { "type": "text", "content": "具有熱感應的脊椎眼" }
+    ],
+    "correct": 1,
+    "explanation": "鼠婦的眼睛屬於複眼，但視力較差，主要依賴化學感覺與觸覺"
+  },
+  {
+    "q": { "type": "text", "content": "鼠婦體表的幾丁質外骨骼含有哪一種成分來增加硬度？" },
+    "options": [
+      { "type": "text", "content": "碳酸鈣" },
+      { "type": "text", "content": "氯化鈉" },
+      { "type": "text", "content": "磷酸鐵" },
+      { "type": "text", "content": "矽酸鹽" }
+    ],
+    "correct": 0,
+    "explanation": "鼠婦體表的幾丁質外骨骼含有碳酸鈣來增加硬度"
+  },
+  {
+    "q": { "type": "text", "content": "脫殼時若鈣質攝取不足或濕度不對，鼠婦容易發生什麼致命狀況？" },
+    "options": [
+      { "type": "text", "content": "卡殼 / 舊殼無法順利脫落導致死亡" },
+      { "type": "text", "content": "外殼瞬間變成金屬色" },
+      { "type": "text", "content": "體型無限制膨脹" },
+      { "type": "text", "content": "長出多餘的步足" }
+    ],
+    "correct": 0,
+    "explanation": "脫殼時鈣質不足或濕度不對容易發生卡殼，導致舊殼無法順利脫落而死亡"
+  },
+  {
+    "q": { "type": "text", "content": "什麼是鼠婦的「育兒囊（Marsupium）」？" },
+    "options": [
+      { "type": "text", "content": "頭部用來儲存食物的囊袋" },
+      { "type": "text", "content": "由雌性腹面特化的育兒板組成的口袋狀結構" },
+      { "type": "text", "content": "背部用來防禦的空氣室" },
+      { "type": "text", "content": "尾節末端的排泄囊" }
+    ],
+    "correct": 1,
+    "explanation": "鼠婦的育兒囊是由雌性腹面特化的育兒板組成的口袋狀結構"
+  },
+  {
+    "q": { "type": "text", "content": "雌鼠婦產卵後，卵會直接排入育兒囊中，幼體在其中孵化直到什麼時候離開？" },
+    "options": [
+      { "type": "text", "content": "發育至具備自由活動能力的幼體階段才釋出" },
+      { "type": "text", "content": "卵剛產下幾分鐘就離開" },
+      { "type": "text", "content": "長成成體並準備交配時才離開" },
+      { "type": "text", "content": "完全不需要待在育兒囊中" }
+    ],
+    "correct": 0,
+    "explanation": "幼體在育兒囊中孵化，直到發育至具備自由活動能力的幼體階段才釋出"
+  },
+  {
+    "q": { "type": "text", "content": "為什麼有些野生鼠婦捕捉後在人工環境下極難適應而全數死亡？" },
+    "options": [
+      { "type": "text", "content": "對微氣候、共生菌群或壓力極度敏感" },
+      { "type": "text", "content": "人工飼料太營養導致撐死" },
+      { "type": "text", "content": "見到人類會產生焦慮抗拒進食" },
+      { "type": "text", "content": "人工環境的重力與野外不同" }
+    ],
+    "correct": 0,
+    "explanation": "野生個體對微氣候、共生菌群或壓力極度敏感，因此極難適應人工環境"
+  },
+  {
+    "q": { "type": "text", "content": "飼養箱中若出現大量小圓形的白色跳蟲（Collembola），對鼠婦飼養環境有什麼正面幫助？" },
+    "options": [
+      { "type": "text", "content": "分解排泄物、抑制黴菌滋生" },
+      { "type": "text", "content": "把鼠婦全部吃掉以控制數量" },
+      { "type": "text", "content": "提供鼠婦伙食來源" },
+      { "type": "text", "content": "提高飼養箱的溫度" }
+    ],
+    "correct": 0,
+    "explanation": "白色跳蟲能分解排泄物並抑制黴菌滋生，對飼養環境有正面幫助"
+  },
+  {
+    "q": { "type": "text", "content": "飼養箱中如果爆發有害的「粉蟎（Mites）」或「線蟲」，通常是由於環境出現了什麼問題？" },
+    "options": [
+      { "type": "text", "content": "過度潮濕、蛋白質食物腐敗未清理" },
+      { "type": "text", "content": "飼養箱內部過度乾燥缺水" },
+      { "type": "text", "content": "通風良好且溫度太低" },
+      { "type": "text", "content": "墨魚骨放得太多" }
+    ],
+    "correct": 0,
+    "explanation": "粉蟎或線蟲爆發通常是由於過度潮濕、蛋白質食物腐敗未清理"
+  },
+  {
+    "q": { "type": "text", "content": "Porcellio hoffmannseggii（霍夫曼鼠婦）對水分過多的反應如何？" },
+    "options": [
+      { "type": "text", "content": "極度容易因為潮濕而死亡，偏好乾燥通風環境" },
+      { "type": "text", "content": "非常喜歡泡水並會游泳" },
+      { "type": "text", "content": "水分越多生長速度越快" },
+      { "type": "text", "content": "完全不受水分多寡影響" }
+    ],
+    "correct": 0,
+    "explanation": "西班牙藍寶石鼠婦極度容易因為潮濕而死亡，偏好乾燥通風環境"
+  },
+  {
+    "q": { "type": "text", "content": "Cubaris murina（車頭燈，如 Papaya 變異型）在繁殖速度上有什麼特色？" },
+    "options": [
+      { "type": "text", "content": "相較於其他 Cubaris 屬，繁殖速度快且適應力較強" },
+      { "type": "text", "content": "繁殖速度極慢，一年才產二胎" },
+      { "type": "text", "content": "只能單獨一隻生存無法繁殖" },
+      { "type": "text", "content": "全部都是母的" }
+    ],
+    "correct": 0,
+    "explanation": "車頭燈鼠婦相較於其他 Cubaris 屬，繁殖速度快且適應力較強"
+  },
+  {
+    "q": { "type": "text", "content": "Armadillidium nasatum（聖塔鼠婦）的頭部額端有一個什麼樣的突起？" },
+    "options": [
+      { "type": "text", "content": "明顯的小鼻子狀突起 / 額突" },
+      { "type": "text", "content": "尖銳的毒刺構造" },
+      { "type": "text", "content": "發光的觸角燈泡" },
+      { "type": "text", "content": "巨大的扇形耳朵" }
+    ],
+    "correct": 0,
+    "explanation": "尖頭球鼠婦的頭部額端有一個明顯的小鼻子狀突起或額突"
+  },
+  {
+    "q": { "type": "text", "content": "鼠婦的血液（血淋含液 Hemolymph）中含有哪種金屬離子來運輸氧氣，因而呈現透明或淡藍色？" },
+    "options": [
+      { "type": "text", "content": "鐵離子" },
+      { "type": "text", "content": "銅離子" },
+      { "type": "text", "content": "鎂離子" },
+      { "type": "text", "content": "鈣離子" }
+    ],
+    "correct": 1,
+    "explanation": "鼠婦血液含有銅離子（血藍蛋白 Hemocyanin）來運輸氧氣"
+  },
+  {
+    "q": { "type": "text", "content": "與人類的血紅蛋白（含鐵）不同，鼠婦的血藍蛋白在結合氧氣後呈現什麼顏色？" },
+    "options": [
+      { "type": "text", "content": "帶氧時呈淡藍色，缺氧時無色" },
+      { "type": "text", "content": "帶氧時呈鮮紅色，缺氧時黑色" },
+      { "type": "text", "content": "帶氧時呈金黃色，缺氧時綠色" },
+      { "type": "text", "content": "永遠呈現純白色" }
+    ],
+    "correct": 0,
+    "explanation": "鼠婦的血藍蛋白在帶氧時呈淡藍色，缺氧時無色"
+  },
+  {
+    "q": { "type": "text", "content": "鼠婦的步足基部具有什麼構造可以吸收空氣中的水分？" },
+    "options": [
+      { "type": "text", "content": "水分吸收構造 / 水分微管通道" },
+      { "type": "text", "content": "小型抽水幫浦" },
+      { "type": "text", "content": "化學過濾膜" },
+      { "type": "text", "content": "毛髮狀儲水袋" }
+    ],
+    "correct": 0,
+    "explanation": "鼠婦的步足基部具有水分吸收構造或水分微管通道"
+  },
+  {
+    "q": { "type": "text", "content": "為什麼不能隨意將野外採集的鼠婦直接與高價的寵物鼠婦混養？" },
+    "options": [
+      { "type": "text", "content": "野外個體可能帶有寄生蟲、病毒或線蟲病原" },
+      { "type": "text", "content": "野外鼠婦會欺負高價寵物鼠婦" },
+      { "type": "text", "content": "野外鼠婦會教壞寵物鼠婦逃跑" },
+      { "type": "text", "content": "兩者品種相同會直接融化" }
+    ],
+    "correct": 0,
+    "explanation": "野外個體可能帶有寄生蟲、病毒或線蟲病原，不宜隨意混養"
+  },
+  {
+    "q": { "type": "text", "content": "飼養箱內的落葉以哪幾種樹木的落葉最受鼠婦喜愛且安全？" },
+    "options": [
+      { "type": "text", "content": "橡樹、山毛櫸、楓樹等闊葉樹" },
+      { "type": "text", "content": "松樹、柏樹等針葉樹" },
+      { "type": "text", "content": "香蕉葉" },
+      { "type": "text", "content": "人工塑膠裝飾葉片" }
+    ],
+    "correct": 0,
+    "explanation": "橡樹、山毛櫸、楓樹等闊葉樹的落葉最受鼠婦喜愛且安全"
+  },
+  {
+    "q": { "type": "text", "content": "為什麼不能使用松樹、柏樹等針葉樹的落葉或木屑來飼養鼠婦？" },
+    "options": [
+      { "type": "text", "content": "含有天然精油與樹脂，對甲殼類具有毒性" },
+      { "type": "text", "content": "顏色太難看影響觀賞" },
+      { "type": "text", "content": "質地太硬完全無法咬碎" },
+      { "type": "text", "content": "會吸引太多昆蟲王國的螞蟻" }
+    ],
+    "correct": 0,
+    "explanation": "松柏等針葉樹含有天然精油與樹脂，對甲殼類具有毒性"
+  },
+  {
+    "q": { "type": "text", "content": "繁殖高單價鼠婦（如特殊色系或稀有 Cubaris）時，適當的族群密度有何影響？" },
+    "options": [
+      { "type": "text", "content": "過度擁擠會增加緊迫，密度適中利於繁殖" },
+      { "type": "text", "content": "越多擠在一起繁殖率越高" },
+      { "type": "text", "content": "必須單獨一隻隔絕才能繁殖" },
+      { "type": "text", "content": "密度對繁殖完全沒有任何影響" }
+    ],
+    "correct": 0,
+    "explanation": "過度擁擠會增加緊迫，密度適中才利於繁殖"
+  },
+  {
+    "q": { "type": "text", "content": "鼠婦在夜間的活動行為通常有什麼轉變？" },
+    "options": [
+      { "type": "text", "content": "夜行性較強，會離開底土爬行覓食" },
+      { "type": "text", "content": "夜間會進入深度冬眠狀態" },
+      { "type": "text", "content": "夜晚會發出耀眼的螢光" },
+      { "type": "text", "content": "夜間會集體爬到飼養盒頂部" }
+    ],
+    "correct": 0,
+    "explanation": "鼠婦夜行性較強，夜間會離開底土爬行覓食"
+  },
+  {
+    "q": { "type": "text", "content": "Cubaris sp. \"Amber\"（琥珀鼠婦）在強光或側光照射下呈現什麼特殊的半透明色澤？" },
+    "options": [
+      { "type": "text", "content": "溫潤的琥珀金黃色" },
+      { "type": "text", "content": "刺眼的螢光霓虹綠" },
+      { "type": "text", "content": "深不見底的墨黑色" },
+      { "type": "text", "content": "純淨雪白的反光" }
+    ],
+    "correct": 0,
+    "explanation": "琥珀鼠婦在強光或側光照射下呈現溫潤的琥珀金黃色"
+  },
+  {
+    "q": { "type": "text", "content": "Porcellio scaber（糙瓷鼠婦）的體表質感有什麼特徵？" },
+    "options": [
+      { "type": "text", "content": "佈滿明顯的小顆粒與粗糙突起" },
+      { "type": "text", "content": "光滑如鏡面般毫無紋理" },
+      { "type": "text", "content": "長滿長長的動物毛髮" },
+      { "type": "text", "content": "覆蓋一層黏稠的膠狀物" }
+    ],
+    "correct": 0,
+    "explanation": "糙瓷鼠婦的體表質感佈滿明顯的小顆粒與粗糙突起"
+  },
+  {
+    "q": { "type": "text", "content": "糙瓷鼠婦（Porcellio scaber）常見的基因變異型「Calico」外觀有何特徵？" },
+    "options": [
+      { "type": "text", "content": "白色、黃色、橘色與黑色交織的花斑" },
+      { "type": "text", "content": "全身單一純黑毫無雜色" },
+      { "type": "text", "content": "僅有藍白相間的斑馬紋" },
+      { "type": "text", "content": "透明無色的身體" }
+    ],
+    "correct": 0,
+    "explanation": "三花變異型具有白色、黃色、橘色與黑色交織的花斑"
+  },
+  {
+    "q": { "type": "text", "content": "什麼是鼠婦的「假死」行為（Thanatosis）？" },
+    "options": [
+      { "type": "text", "content": "受到威脅時瞬間僵硬不動，裝死以躲避掠食者" },
+      { "type": "text", "content": "主動向天敵釋放毒氣後逃跑" },
+      { "type": "text", "content": "將身體膨脹大三倍嚇退敵人" },
+      { "type": "text", "content": "快速鑽入地下深處藏匿" }
+    ],
+    "correct": 0,
+    "explanation": "假死行為是指受到威脅時瞬間僵硬不動，裝死以躲避掠食者"
+  },
+  {
+    "q": { "type": "text", "content": "陸生等足類（鼠婦）在地球歷史上大約是什麼時期開始登陸演化的？" },
+    "options": [
+      { "type": "text", "content": "古生代石炭紀或更早" },
+      { "type": "text", "content": "新生代人類出現時期" },
+      { "type": "text", "content": "中生代白堊紀恐龍時期" },
+      { "type": "text", "content": "近代工業革命時期" }
+    ],
+    "correct": 0,
+    "explanation": "陸生等足類大約在古生代石炭紀或更早開始登陸演化"
+  },
+  {
+    "q": { "type": "text", "content": "檢視母鼠婦是否懷孕（帶卵）時，主要觀察牠們身體的哪一個部位？" },
+    "options": [
+      { "type": "text", "content": "腹面是否有膨大的乳白色育兒囊" },
+      { "type": "text", "content": "頭部觸角的長短變化" },
+      { "type": "text", "content": "尾節末端是否有卵粒外露" },
+      { "type": "text", "content": "背部中央的斑紋顏色" }
+    ],
+    "correct": 0,
+    "explanation": "檢視母鼠婦是否懷孕主要觀察腹面是否有膨大的乳白色育兒囊"
+  },
+  {
+    "q": { "type": "text", "content": "為什麼在飼養盒中噴水時，不可以直接對著鼠婦身體狂噴？" },
+    "options": [
+      { "type": "text", "content": "水壓過大或瞬間濕度劇變會造成個體緊迫或溺水" },
+      { "type": "text", "content": "水會洗掉鼠婦身上的外殼顏色" },
+      { "type": "text", "content": "會讓鼠婦瞬間長大幾倍" },
+      { "type": "text", "content": "鼠婦會因此學會游泳" }
+    ],
+    "correct": 0,
+    "explanation": "直接對身體狂噴會因水壓過大或瞬間濕度劇變造成個體緊迫或溺水"
+  },
+  {
+    "q": { "type": "text", "content": "鼠婦的腸道菌群對於牠們消化什麼物質扮演關鍵角色？" },
+    "options": [
+      { "type": "text", "content": "纖維素、木質素等難消化植物組織" },
+      { "type": "text", "content": "純淨的糖分與水份" },
+      { "type": "text", "content": "各類金屬礦石礦物質" },
+      { "type": "text", "content": "人工塑膠合成物質" }
+    ],
+    "correct": 0,
+    "explanation": "鼠婦的腸道菌群對消化纖維素、木質素等難消化植物組織扮演關鍵角色"
+  },
+  {
+    "q": { "type": "text", "content": "Cubaris的身體側面具有什麼獨特的物理結構？" },
+    "options": [
+      { "type": "text", "content": "明顯的收縮凹溝" },
+      { "type": "text", "content": "發光的霓虹線條" },
+      { "type": "text", "content": "長滿尖銳的防禦刺" },
+      { "type": "text", "content": "透明的觀察視窗" }
+    ],
+    "correct": 0,
+    "explanation": "Cubaris鼠婦的身體側面具有明顯的收縮凹溝"
+  },
+  {
+    "q": { "type": "text", "content": "為什麼有些飼養者會在飼養箱中放置腐朽的白化朽木（Rotten wood）？" },
+    "options": [
+      { "type": "text", "content": "既是食物也是提供微氣候與產卵的極佳介質" },
+      { "type": "text", "content": "單純為了裝飾飼養箱美觀" },
+      { "type": "text", "content": "用來阻擋鼠婦四處逃跑" },
+      { "type": "text", "content": "吸收飼養箱中的多餘空氣" }
+    ],
+    "correct": 0,
+    "explanation": "腐朽白化朽木既是食物也是提供微氣候與產卵的極佳介質"
+  },
+  {
+    "q": { "type": "text", "content": "Armadillidium vulgare \"Magic Potion\"（魔法藥水）具有什麼獨特的基因斑紋？" },
+    "options": [
+      { "type": "text", "content": "帶有複雜如彩釉般的淺色大理石紋" },
+      { "type": "text", "content": "單一純白色的斑紋" },
+      { "type": "text", "content": "幾何對稱的方形黑點" },
+      { "type": "text", "content": "螢光綠色的圓形斑塊" }
+    ],
+    "correct": 0,
+    "explanation": "魔法藥水帶有複雜如彩釉般的淺色大理石紋斑紋"
+  },
+  {
+    "q": { "type": "text", "content": "當飼養環境的二氧化碳濃度過高時，鼠婦通常會出現什麼行為？" },
+    "options": [
+      { "type": "text", "content": "往高處爬或試圖逃逸" },
+      { "type": "text", "content": "原地不動進入深眠" },
+      { "type": "text", "content": "集體挖掘更深的地下巢穴" },
+      { "type": "text", "content": "發出高頻的尖叫聲" }
+    ],
+    "correct": 0,
+    "explanation": "二氧化碳濃度過高時，鼠婦通常會往高處爬或試圖逃逸"
+  },
+  {
+    "q": { "type": "text", "content": "鼠婦的頭胸部（Pereon）由幾節無節合的體節組成？" },
+    "options": [
+      { "type": "text", "content": "胸部通常有 7 節，各有一對步足" },
+      { "type": "text", "content": "胸部只有 3 節體節" },
+      { "type": "text", "content": "胸部共有 12 節體節" },
+      { "type": "text", "content": "胸部完全沒有分節" }
+    ],
+    "correct": 0,
+    "explanation": "鼠婦頭胸部（Pereon）通常有 7 節，各有一對步足"
+  },
+ {
+    "q": { "type": "text", "content": "下列那一種不是車頭燈？" },
+    "options": [
+      { "type": "text", "content": "橘子" },
+      { "type": "text", "content": "檸檬" },
+      { "type": "text", "content": "木瓜" },
+      { "type": "text", "content": "海葵" }
+    ],
+    "correct": 0,
+    "explanation": "車頭燈有橘子、木瓜、冰川、海葵"
+  },
+  {
+    "q": { "type": "text", "content": "鼠婦的腹部（Pleon）末端具有一對尾肢（Uropods），這對尾肢主要的功能是什麼？" },
+    "options": [
+      { "type": "text", "content": "感覺器官、協助排泄與觸覺防衛" },
+      { "type": "text", "content": "專門用來抓取食物送入口中" },
+      { "type": "text", "content": "輔助身體在空中飛翔" },
+      { "type": "text", "content": "發動攻擊的致命毒刺" }
+    ],
+    "correct": 0,
+    "explanation": "尾肢主要作為感覺器官、協助排泄與觸覺防衛"
+  }
+],
+  "hell": [
+  {
+    "q": {
+      "type": "text",
+      "content": "陸生等足類（Isopoda）在演化上為了適應陸地生活，其腹肢（Pleopods）內側演化出的呼吸構造「偽氣管（Pseudotrachea）」其功能原理與昆蟲的氣管有何本質上的不同？"
+    },
+    "options": [
+      {
+        "type": "text",
+        "content": "偽氣管是高度血管化的外骨骼內陷腔室，依賴血淋巴進行氣體交換，而昆蟲氣管是直接將空氣輸送到組織"
+      },
+      {
+        "type": "text",
+        "content": "此選項為干擾項，與實際生物學機制不符"
+      },
+      {
+        "type": "text",
+        "content": "此選項為人工假設之錯誤敘述"
+      },
+      {
+        "type": "text",
+        "content": "此選項與等足類動物之生理結構無關"
+      }
+    ],
+    "correct": 0,
+    "explanation": "陸生等足類（Isopoda）在演化上為了適應陸地生活，其腹肢（Pleopods）內側演化出的呼吸構造「偽氣管（Pseudotrachea）」其功能原理與昆蟲的氣管有何本質上的不同？（偽氣管是高度血管化的外骨骼內陷腔室，依賴血淋巴進行氣體交換，而昆蟲氣管是直接將空氣輸送到組織）"
+  },
+  {
+    "q": {
+      "type": "text",
+      "content": "感染「沃巴氏體（Wolbachia）」共生細菌的陸生鼠婦，會導致族群出現什麼奇特的性比失衡與性別決定機制扭曲？"
+    },
+    "options": [
+      {
+        "type": "text",
+        "content": "將基因雄性轉化為雌性，導致族群中幾乎全為雌性以利母系垂直傳播"
+      },
+      {
+        "type": "text",
+        "content": "此選項為干擾項，與實際生物學機制不符"
+      },
+      {
+        "type": "text",
+        "content": "此選項為人工假設之錯誤敘述"
+      },
+      {
+        "type": "text",
+        "content": "此選項與等足類動物之生理結構無關"
+      }
+    ],
+    "correct": 0,
+    "explanation": "感染「沃巴氏體（Wolbachia）」共生細菌的陸生鼠婦，會導致族群出現什麼奇特的性比失衡與性別決定機制扭曲？（將基因雄性轉化為雌性，導致族群中幾乎全為雌性以利母系垂直傳播）"
+  },
+  {
+    "q": {
+      "type": "text",
+      "content": "在 Armadillidium 屬中，某些種類的性別決定系統除了標準的 WZ/ZZ 染色體外，還受到什麼因素的強烈干擾？"
+    },
+    "options": [
+      {
+        "type": "text",
+        "content": "受到共生細菌 Wolbachia 感染的表觀遺傳與環境性別決定因子影響"
+      },
+      {
+        "type": "text",
+        "content": "此選項為干擾項，與實際生物學機制不符"
+      },
+      {
+        "type": "text",
+        "content": "此選項為人工假設之錯誤敘述"
+      },
+      {
+        "type": "text",
+        "content": "此選項與等足類動物之生理結構無關"
+      }
+    ],
+    "correct": 0,
+    "explanation": "在 Armadillidium 屬中，某些種類的性別決定系統除了標準的 WZ/ZZ 染色體外，還受到什麼因素的強烈干擾？（受到共生細菌 Wolbachia 感染的表觀遺傳與環境性別決定因子影響）"
+  },
+  {
+    "q": {
+      "type": "text",
+      "content": "鼠婦的血紅蛋白（Hemocyanin）在脫氧與帶氧狀態下的分子量級與結構複雜度大約是多少？"
+    },
+    "options": [
+      {
+        "type": "text",
+        "content": "屬於巨型多聚體蛋白質，含有數十個銅原子結合位點"
+      },
+      {
+        "type": "text",
+        "content": "此選項為干擾項，與實際生物學機制不符"
+      },
+      {
+        "type": "text",
+        "content": "此選項為人工假設之錯誤敘述"
+      },
+      {
+        "type": "text",
+        "content": "此選項與等足類動物之生理結構無關"
+      }
+    ],
+    "correct": 0,
+    "explanation": "鼠婦的血紅蛋白（Hemocyanin）在脫氧與帶氧狀態下的分子量級與結構複雜度大約是多少？（屬於巨型多聚體蛋白質，含有數十個銅原子結合位點）"
+  },
+  {
+    "q": {
+      "type": "text",
+      "content": "Cubaris 屬（如常見的各類侏儒及特色球鼠婦）在其原生棲息地的微環境（Microhabitat）通常具備什麼極端的地質特徵？"
+    },
+    "options": [
+      {
+        "type": "text",
+        "content": "多數棲息於熱帶或亞熱帶喀斯特地形的石灰岩洞穴縫隙或石縫深處"
+      },
+      {
+        "type": "text",
+        "content": "此選項為干擾項，與實際生物學機制不符"
+      },
+      {
+        "type": "text",
+        "content": "此選項為人工假設之錯誤敘述"
+      },
+      {
+        "type": "text",
+        "content": "此選項與等足類動物之生理結構無關"
+      }
+    ],
+    "correct": 0,
+    "explanation": "Cubaris 屬（如常見的各類侏儒及特色球鼠婦）在其原生棲息地的微環境（Microhabitat）通常具備什麼極端的地質特徵？（多數棲息於熱帶或亞熱帶喀斯特地形的石灰岩洞穴縫隙或石縫深處）"
+  },
+  {
+    "q": {
+      "type": "text",
+      "content": "喀斯特地貌（Karst topography）環境對 Cubaris 屬鼠婦的生存提供了哪兩個不可或缺的化學與物理條件？"
+    },
+    "options": [
+      {
+        "type": "text",
+        "content": "極高且穩定的濕度，以及極度豐富的碳酸鈣來源"
+      },
+      {
+        "type": "text",
+        "content": "此選項為干擾項，與實際生物學機制不符"
+      },
+      {
+        "type": "text",
+        "content": "此選項為人工假設之錯誤敘述"
+      },
+      {
+        "type": "text",
+        "content": "此選項與等足類動物之生理結構無關"
+      }
+    ],
+    "correct": 0,
+    "explanation": "喀斯特地貌（Karst topography）環境對 Cubaris 屬鼠婦的生存提供了哪兩個不可或缺的化學與物理條件？（極高且穩定的濕度，以及極度豐富的碳酸鈣來源）"
+  },
+  {
+    "q": {
+      "type": "text",
+      "content": "試述 Porcellio haasi 或 Porcellio hoffmannseggii（西班牙大型鼠婦）在原生棲息地面對地中海型氣候時的夏眠（Aestivation）機制：當夏季高溫乾旱時，牠們會採取什麼生理策略？"
+    },
+    "options": [
+      {
+        "type": "text",
+        "content": "深入地表深處岩縫或石塊下方，降低代謝率並封閉洞口以防止水分散失"
+      },
+      {
+        "type": "text",
+        "content": "此選項為干擾項，與實際生物學機制不符"
+      },
+      {
+        "type": "text",
+        "content": "此選項為人工假設之錯誤敘述"
+      },
+      {
+        "type": "text",
+        "content": "此選項與等足類動物之生理結構無關"
+      }
+    ],
+    "correct": 0,
+    "explanation": "試述 Porcellio haasi 或 Porcellio hoffmannseggii（西班牙大型鼠婦）在原生棲息地面對地中海型氣候時的夏眠（Aestivation）機制：當夏季高溫乾旱時，牠們會採取什麼生理策略？（深入地表深處岩縫或石塊下方，降低代謝率並封閉洞口以防止水分散失）"
+  },
+  {
+    "q": {
+      "type": "text",
+      "content": "鼠婦的內分泌系統中，負責控制蛻皮（Ecdysis）與生長的重要腺體是什麼？"
+    },
+    "options": [
+      {
+        "type": "text",
+        "content": "Y-器官 Y-organ 和大顎腺 Mandibular gland，受X-器官-竇腺複合體調控"
+      },
+      {
+        "type": "text",
+        "content": "此選項為干擾項，與實際生物學機制不符"
+      },
+      {
+        "type": "text",
+        "content": "此選項為人工假設之錯誤敘述"
+      },
+      {
+        "type": "text",
+        "content": "此選項與等足類動物之生理結構無關"
+      }
+    ],
+    "correct": 0,
+    "explanation": "鼠婦的內分泌系統中，負責控制蛻皮（Ecdysis）與生長的重要腺體是什麼？（Y-器官 Y-organ 和大顎腺 Mandibular gland，受X-器官-竇腺複合體調控）"
+  },
+  {
+    "q": {
+      "type": "text",
+      "content": "當移除鼠婦的「鈣腺（Caecal glands / Sternal glands）」或當其功能受損時，對牠們的外殼硬化會產生什麼致命影響？"
+    },
+    "options": [
+      {
+        "type": "text",
+        "content": "無法在脫殼前後有效調控體內鈣離子濃度，導致新外殼無法鈣化而軟化死亡"
+      },
+      {
+        "type": "text",
+        "content": "此選項為干擾項，與實際生物學機制不符"
+      },
+      {
+        "type": "text",
+        "content": "此選項為人工假設之錯誤敘述"
+      },
+      {
+        "type": "text",
+        "content": "此選項與等足類動物之生理結構無關"
+      }
+    ],
+    "correct": 0,
+    "explanation": "當移除鼠婦的「鈣腺（Caecal glands / Sternal glands）」或當其功能受損時，對牠們的外殼硬化會產生什麼致命影響？（無法在脫殼前後有效調控體內鈣離子濃度，導致新外殼無法鈣化而軟化死亡）"
+  },
+  {
+    "q": {
+      "type": "text",
+      "content": "Armadillidium granulatum 的外骨骼表面佈滿獨特的顆粒狀突起，這些突起在生物力學上對牠們在乾燥環境有什麼幫助？"
+    },
+    "options": [
+      {
+        "type": "text",
+        "content": "增加表面積以利微量水分凝結吸附，並減少身體與乾燥表面的直接接觸摩擦"
+      },
+      {
+        "type": "text",
+        "content": "此選項為干擾項，與實際生物學機制不符"
+      },
+      {
+        "type": "text",
+        "content": "此選項為人工假設之錯誤敘述"
+      },
+      {
+        "type": "text",
+        "content": "此選項與等足類動物之生理結構無關"
+      }
+    ],
+    "correct": 0,
+    "explanation": "Armadillidium granulatum 的外骨骼表面佈滿獨特的顆粒狀突起，這些突起在生物力學上對牠們在乾燥環境有什麼幫助？（增加表面積以利微量水分凝結吸附，並減少身體與乾燥表面的直接接觸摩擦）"
+  },
+  {
+    "q": {
+      "type": "text",
+      "content": "關於等足目的神經系統，鼠婦的腹神經索（Ventral nerve cord）呈現什麼典型的節肢動物梯形結構？"
+    },
+    "options": [
+      {
+        "type": "text",
+        "content": "具備明顯的雙索神經節，胸部與腹部神經節在某些演化支系中出現不同程度的癒合"
+      },
+      {
+        "type": "text",
+        "content": "此選項為干擾項，與實際生物學機制不符"
+      },
+      {
+        "type": "text",
+        "content": "此選項為人工假設之錯誤敘述"
+      },
+      {
+        "type": "text",
+        "content": "此選項與等足類動物之生理結構無關"
+      }
+    ],
+    "correct": 0,
+    "explanation": "關於等足目的神經系統，鼠婦的腹神經索（Ventral nerve cord）呈現什麼典型的節肢動物梯形結構？（具備明顯的雙索神經節，胸部與腹部神經節在某些演化支系中出現不同程度的癒合）"
+  },
+  {
+    "q": {
+      "type": "text",
+      "content": "許多高難度的洞穴種鼠婦（例如部分分佈於巴爾幹半島洞穴系統的 Trachelipus 或 Alpioniscus 屬）通常演化出什麼顯著的生理退化特徵？"
+    },
+    "options": [
+      {
+        "type": "text",
+        "content": "眼睛完全退化消失、無色素沉澱呈全透明或乳白色、觸角與步足異常延長以利觸覺導航"
+      },
+      {
+        "type": "text",
+        "content": "此選項為干擾項，與實際生物學機制不符"
+      },
+      {
+        "type": "text",
+        "content": "此選項為人工假設之錯誤敘述"
+      },
+      {
+        "type": "text",
+        "content": "此選項與等足類動物之生理結構無關"
+      }
+    ],
+    "correct": 0,
+    "explanation": "許多高難度的洞穴種鼠婦（例如部分分佈於巴爾幹半島洞穴系統的 Trachelipus 或 Alpioniscus 屬）通常演化出什麼顯著的生理退化特徵？（眼睛完全退化消失、無色素沉澱呈全透明或乳白色、觸角與步足異常延長以利觸覺導航）"
+  },
+  {
+    "q": {
+      "type": "text",
+      "content": "基因突變中，「Piebald」（花斑/雜色）與「Albino」（白化）在遺傳學機制上的差異為何？"
+    },
+    "options": [
+      {
+        "type": "text",
+        "content": "Albino 是酪胺酸酶缺乏導致完全無法合成黑色素；Piebald 則是黑素細胞分化或分佈異常導致的局部色素缺失斑塊"
+      },
+      {
+        "type": "text",
+        "content": "此選項為干擾項，與實際生物學機制不符"
+      },
+      {
+        "type": "text",
+        "content": "此選項為人工假設之錯誤敘述"
+      },
+      {
+        "type": "text",
+        "content": "此選項與等足類動物之生理結構無關"
+      }
+    ],
+    "correct": 0,
+    "explanation": "基因突變中，「Piebald」（花斑/雜色）與「Albino」（白化）在遺傳學機制上的差異為何？（Albino 是酪胺酸酶缺乏導致完全無法合成黑色素；Piebald 則是黑素細胞分化或分佈異常導致的局部色素缺失斑塊）"
+  },
+  {
+    "q": {
+      "type": "text",
+      "content": "在培育紅眼白化（Red-eyed Albino）突變型鼠婦時，除了缺乏黑色素外，通常還會伴隨視網膜什麼生理缺陷？"
+    },
+    "options": [
+      {
+        "type": "text",
+        "content": "對強光高度敏感，視力與趨光反應嚴重受損"
+      },
+      {
+        "type": "text",
+        "content": "此選項為干擾項，與實際生物學機制不符"
+      },
+      {
+        "type": "text",
+        "content": "此選項為人工假設之錯誤敘述"
+      },
+      {
+        "type": "text",
+        "content": "此選項與等足類動物之生理結構無關"
+      }
+    ],
+    "correct": 0,
+    "explanation": "在培育紅眼白化（Red-eyed Albino）突變型鼠婦時，除了缺乏黑色素外，通常還會伴隨視網膜什麼生理缺陷？（對強光高度敏感，視力與趨光反應嚴重受損）"
+  },
+  {
+    "q": {
+      "type": "text",
+      "content": "試分析 Porcellio scaber 'Ghost' 或特定白化品系在遺傳學上屬於顯性（Dominant）、隱性（Recessive）還是性聯遺傳（Sex-linked）？"
+    },
+    "options": [
+      {
+        "type": "text",
+        "content": "多數隱性白化基因需要雙親皆帶原或純合才會在後代表現"
+      },
+      {
+        "type": "text",
+        "content": "此選項為干擾項，與實際生物學機制不符"
+      },
+      {
+        "type": "text",
+        "content": "此選項為人工假設之錯誤敘述"
+      },
+      {
+        "type": "text",
+        "content": "此選項與等足類動物之生理結構無關"
+      }
+    ],
+    "correct": 0,
+    "explanation": "試分析 Porcellio scaber 'Ghost' 或特定白化品系在遺傳學上屬於顯性（Dominant）、隱性（Recessive）還是性聯遺傳（Sex-linked）？（多數隱性白化基因需要雙親皆帶原或純合才會在後代表現）"
+  },
+  {
+    "q": {
+      "type": "text",
+      "content": "在繁殖 Cubaris sp. \"Rubber Ducky\"（橡膠鴨仔）時，若飼養箱內的 pH 值過低（呈現酸性），會對牠們造成什麼長遠的生理傷害？"
+    },
+    "options": [
+      {
+        "type": "text",
+        "content": "酸性環境會加速外殼碳酸鈣溶解，並破壞其微氣候的離子平衡"
+      },
+      {
+        "type": "text",
+        "content": "此選項為干擾項，與實際生物學機制不符"
+      },
+      {
+        "type": "text",
+        "content": "此選項為人工假設之錯誤敘述"
+      },
+      {
+        "type": "text",
+        "content": "此選項與等足類動物之生理結構無關"
+      }
+    ],
+    "correct": 0,
+    "explanation": "在繁殖 Cubaris sp. \"Rubber Ducky\"（橡膠鴨仔）時，若飼養箱內的 pH 值過低（呈現酸性），會對牠們造成什麼長遠的生理傷害？（酸性環境會加速外殼碳酸鈣溶解，並破壞其微氣候的離子平衡）"
+  },
+  {
+    "q": {
+      "type": "text",
+      "content": "陸生等足類的「血淋巴循環系統」屬於開放式循環（Open circulatory system），其心臟（Heart）位於身體的哪一個解剖位置？"
+    },
+    "options": [
+      {
+        "type": "text",
+        "content": "位於腹部背側的多孔管狀心臟，透過心孔接收血淋巴並向前打出"
+      },
+      {
+        "type": "text",
+        "content": "此選項為干擾項，與實際生物學機制不符"
+      },
+      {
+        "type": "text",
+        "content": "此選項為人工假設之錯誤敘述"
+      },
+      {
+        "type": "text",
+        "content": "此選項與等足類動物之生理結構無關"
+      }
+    ],
+    "correct": 0,
+    "explanation": "陸生等足類的「血淋巴循環系統」屬於開放式循環（Open circulatory system），其心臟（Heart）位於身體的哪一個解剖位置？（位於腹部背側的多孔管狀心臟，透過心孔接收血淋巴並向前打出）"
+  },
+  {
+    "q": {
+      "type": "text",
+      "content": "某些高階鼠婦品種（如 Merulanella 屬，彩虹鼠婦系列）原產於東南亞（如越南、泰國）的雨林底層，牠們對「空氣流動速度（Airflow）」與「悶熱（Stagnant air）」的敏感度有何極端表現？"
+    },
+    "options": [
+      {
+        "type": "text",
+        "content": "極度需要高濕度但同時需要極高且溫和的通風，只要稍微悶熱就會在幾小時內全數融化死亡"
+      },
+      {
+        "type": "text",
+        "content": "此選項為干擾項，與實際生物學機制不符"
+      },
+      {
+        "type": "text",
+        "content": "此選項為人工假設之錯誤敘述"
+      },
+      {
+        "type": "text",
+        "content": "此選項與等足類動物之生理結構無關"
+      }
+    ],
+    "correct": 0,
+    "explanation": "某些高階鼠婦品種（如 Merulanella 屬，彩虹鼠婦系列）原產於東南亞（如越南、泰國）的雨林底層，牠們對「空氣流動速度（Airflow）」與「悶熱（Stagnant air）」的敏感度有何極端表現？（極度需要高濕度但同時需要極高且溫和的通風，只要稍微悶熱就會在幾小時內全數融化死亡）"
+  },
+  {
+    "q": {
+      "type": "text",
+      "content": "Merulanella sp. \"Red Sparkle\" 或 \"Ao Noi\" 等高價彩虹鼠婦，其背甲鮮豔的色彩（紅、藍、黃、黑交織）在生態學上屬於哪一種警戒或適應機制？"
+    },
+    "options": [
+      {
+        "type": "text",
+        "content": "Aposematism 警戒色，或是針對熱帶雨林複雜光斑的迷彩偽裝"
+      },
+      {
+        "type": "text",
+        "content": "此選項為干擾項，與實際生物學機制不符"
+      },
+      {
+        "type": "text",
+        "content": "此選項為人工假設之錯誤敘述"
+      },
+      {
+        "type": "text",
+        "content": "此選項與等足類動物之生理結構無關"
+      }
+    ],
+    "correct": 0,
+    "explanation": "Merulanella sp. \"Red Sparkle\" 或 \"Ao Noi\" 等高價彩虹鼠婦，其背甲鮮豔的色彩（紅、藍、黃、黑交織）在生態學上屬於哪一種警戒或適應機制？（Aposematism 警戒色，或是針對熱帶雨林複雜光斑的迷彩偽裝）"
+  },
+  {
+    "q": {
+      "type": "text",
+      "content": "臨床或解剖學上，鼠婦體內的寄生線蟲或真菌感染（例如 Entomophthorales 類真菌）會引發什麼異常的行為改變？"
+    },
+    "options": [
+      {
+        "type": "text",
+        "content": "誘導宿主在死亡前爬到高處或乾燥處，以利孢子傳播"
+      },
+      {
+        "type": "text",
+        "content": "此選項為干擾項，與實際生物學機制不符"
+      },
+      {
+        "type": "text",
+        "content": "此選項為人工假設之錯誤敘述"
+      },
+      {
+        "type": "text",
+        "content": "此選項與等足類動物之生理結構無關"
+      }
+    ],
+    "correct": 0,
+    "explanation": "臨床或解剖學上，鼠婦體內的寄生線蟲或真菌感染（例如 Entomophthorales 類真菌）會引發什麼異常的行為改變？（誘導宿主在死亡前爬到高處或乾燥處，以利孢子傳播）"
+  },
+  {
+    "q": {
+      "type": "text",
+      "content": "鼠婦的「生殖孔（Genital pores）」在雌雄異體的分佈上有何解剖差異？"
+    },
+    "options": [
+      {
+        "type": "text",
+        "content": "雄性的生殖孔開口位於第一對或第二對腹肢基部的生殖突起上；雌性的生殖孔則開口於第五胸節腹面"
+      },
+      {
+        "type": "text",
+        "content": "此選項為干擾項，與實際生物學機制不符"
+      },
+      {
+        "type": "text",
+        "content": "此選項為人工假設之錯誤敘述"
+      },
+      {
+        "type": "text",
+        "content": "此選項與等足類動物之生理結構無關"
+      }
+    ],
+    "correct": 0,
+    "explanation": "鼠婦的「生殖孔（Genital pores）」在雌雄異體的分佈上有何解剖差異？（雄性的生殖孔開口位於第一對或第二對腹肢基部的生殖突起上；雌性的生殖孔則開口於第五胸節腹面）"
+  },
+  {
+    "q": {
+      "type": "text",
+      "content": "關於等足目精子的轉移與受精機制，雄性鼠婦如何將精子送入雌體？"
+    },
+    "options": [
+      {
+        "type": "text",
+        "content": "利用特化的第一、二對腹肢（交接器）將精莢送入雌性生殖孔內"
+      },
+      {
+        "type": "text",
+        "content": "此選項為干擾項，與實際生物學機制不符"
+      },
+      {
+        "type": "text",
+        "content": "此選項為人工假設之錯誤敘述"
+      },
+      {
+        "type": "text",
+        "content": "此選項與等足類動物之生理結構無關"
+      }
+    ],
+    "correct": 0,
+    "explanation": "關於等足目精子的轉移與受精機制，雄性鼠婦如何將精子送入雌體？（利用特化的第一、二對腹肢（交接器）將精莢送入雌性生殖孔內）"
+  },
+  {
+    "q": {
+      "type": "text",
+      "content": "某些野生物種在面臨嚴重脫水時，會利用尾肢（Uropods）周圍的毛細現象進行什麼特殊的生理補水行為？"
+    },
+    "options": [
+      {
+        "type": "text",
+        "content": "逆向毛細現象吸收土壤或水苔表面的微量水分進入體內"
+      },
+      {
+        "type": "text",
+        "content": "此選項為干擾項，與實際生物學機制不符"
+      },
+      {
+        "type": "text",
+        "content": "此選項為人工假設之錯誤敘述"
+      },
+      {
+        "type": "text",
+        "content": "此選項與等足類動物之生理結構無關"
+      }
+    ],
+    "correct": 0,
+    "explanation": "某些野生物種在面臨嚴重脫水時，會利用尾肢（Uropods）周圍的毛細現象進行什麼特殊的生理補水行為？（逆向毛細現象吸收土壤或水苔表面的微量水分進入體內）"
+  },
+  {
+    "q": {
+      "type": "text",
+      "content": "飼養高級品種時常使用「半地棲-半附生（Hemiepiphytic / Paludarium-style）」的造景配置，這種配置的核心精髓是什麼？"
+    },
+    "options": [
+      {
+        "type": "text",
+        "content": "模擬溪流邊緣或潮濕岩壁，結合活體苔蘚、流木與持續微滴灌或高濕度循環空氣"
+      },
+      {
+        "type": "text",
+        "content": "此選項為干擾項，與實際生物學機制不符"
+      },
+      {
+        "type": "text",
+        "content": "此選項為人工假設之錯誤敘述"
+      },
+      {
+        "type": "text",
+        "content": "此選項與等足類動物之生理結構無關"
+      }
+    ],
+    "correct": 0,
+    "explanation": "飼養高級品種時常使用「半地棲-半附生（Hemiepiphytic / Paludarium-style）」的造景配置，這種配置的核心精髓是什麼？（模擬溪流邊緣或潮濕岩壁，結合活體苔蘚、流木與持續微滴灌或高濕度循環空氣）"
+  },
+  {
+    "q": {
+      "type": "text",
+      "content": "Armadillidium vulgare 的「Orange Vigor」或特定黃化突變基因，在族群近親交配（Inbreeding depression）過度時會出現什麼典型的遺傳退化？"
+    },
+    "options": [
+      {
+        "type": "text",
+        "content": "產卵量銳減、幼體畸形率激增、免疫力下降導致整槽崩潰"
+      },
+      {
+        "type": "text",
+        "content": "此選項為干擾項，與實際生物學機制不符"
+      },
+      {
+        "type": "text",
+        "content": "此選項為人工假設之錯誤敘述"
+      },
+      {
+        "type": "text",
+        "content": "此選項與等足類動物之生理結構無關"
+      }
+    ],
+    "correct": 0,
+    "explanation": "Armadillidium vulgare 的「Orange Vigor」或特定黃化突變基因，在族群近親交配（Inbreeding depression）過度時會出現什麼典型的遺傳退化？（產卵量銳減、幼體畸形率激增、免疫力下降導致整槽崩潰）"
+  },
+  {
+    "q": {
+      "type": "text",
+      "content": "試述 Porcellionides pruinosus 的「自割（Autotomy）」或防禦釋放防禦性化學物質的分泌腺分佈在哪裡？"
+    },
+    "options": [
+      {
+        "type": "text",
+        "content": "雖然多數等足類不具備強烈毒腺，但受驚嚇時會從體表腺體分泌帶有特殊氣味的微量防禦性醌類化合物"
+      },
+      {
+        "type": "text",
+        "content": "此選項為干擾項，與實際生物學機制不符"
+      },
+      {
+        "type": "text",
+        "content": "此選項為人工假設之錯誤敘述"
+      },
+      {
+        "type": "text",
+        "content": "此選項與等足類動物之生理結構無關"
+      }
+    ],
+    "correct": 0,
+    "explanation": "試述 Porcellionides pruinosus 的「自割（Autotomy）」或防禦釋放防禦性化學物質的分泌腺分佈在哪裡？（雖然多數等足類不具備強烈毒腺，但受驚嚇時會從體表腺體分泌帶有特殊氣味的微量防禦性醌類化合物）"
+  },
+  {
+    "q": {
+      "type": "text",
+      "content": "為什麼在配置高端鼠婦飼養土時，必須加入「活性碳（Activated carbon）」或「麥飯石（Maifanshi）」？"
+    },
+    "options": [
+      {
+        "type": "text",
+        "content": "吸附代謝產生的毒性氨氣與有機酸，並緩釋微量礦物質"
+      },
+      {
+        "type": "text",
+        "content": "此選項為干擾項，與實際生物學機制不符"
+      },
+      {
+        "type": "text",
+        "content": "此選項為人工假設之錯誤敘述"
+      },
+      {
+        "type": "text",
+        "content": "此選項與等足類動物之生理結構無關"
+      }
+    ],
+    "correct": 0,
+    "explanation": "為什麼在配置高端鼠婦飼養土時，必須加入「活性碳（Activated carbon）」或「麥飯石（Maifanshi）」？（吸附代謝產生的毒性氨氣與有機酸，並緩釋微量礦物質）"
+  },
+  {
+    "q": {
+      "type": "text",
+      "content": "Schizidium 屬的鼠婦在分類學上與 Armadillidium 屬極為相似，其最主要的解剖鑑別特徵是什麼？"
+    },
+    "options": [
+      {
+        "type": "text",
+        "content": "頭部額板（Clypeus/Frontal shield）與頭頂突起的癒合形態及眼面結構的差異"
+      },
+      {
+        "type": "text",
+        "content": "此選項為干擾項，與實際生物學機制不符"
+      },
+      {
+        "type": "text",
+        "content": "此選項為人工假設之錯誤敘述"
+      },
+      {
+        "type": "text",
+        "content": "此選項與等足類動物之生理結構無關"
+      }
+    ],
+    "correct": 0,
+    "explanation": "Schizidium 屬的鼠婦在分類學上與 Armadillidium 屬極為相似，其最主要的解剖鑑別特徵是什麼？（頭部額板（Clypeus/Frontal shield）與頭頂突起的癒合形態及眼面結構的差異）"
+  },
+  {
+    "q": {
+      "type": "text",
+      "content": "Platyarthrus hoffmannseggii 這種特殊的「蟻巢鼠婦（Myrmecophilous isopod）」擁有什麼不可思議的生態習性？"
+    },
+    "options": [
+      {
+        "type": "text",
+        "content": "牠們專門生活在螞蟻巢穴內部，靠著舔舐螞蟻的分泌物或共生生活，且演化出能躲避螞蟻攻擊的化學偽裝"
+      },
+      {
+        "type": "text",
+        "content": "此選項為干擾項，與實際生物學機制不符"
+      },
+      {
+        "type": "text",
+        "content": "此選項為人工假設之錯誤敘述"
+      },
+      {
+        "type": "text",
+        "content": "此選項與等足類動物之生理結構無關"
+      }
+    ],
+    "correct": 0,
+    "explanation": "Platyarthrus hoffmannseggii 這種特殊的「蟻巢鼠婦（Myrmecophilous isopod）」擁有什麼不可思議的生態習性？（牠們專門生活在螞蟻巢穴內部，靠著舔舐螞蟻的分泌物或共生生活，且演化出能躲避螞蟻攻擊的化學偽裝）"
+  },
+  {
+    "q": {
+      "type": "text",
+      "content": "蟻巢鼠婦（Platyarthrus）的外觀通常呈現什麼極端的特徵來適應狹窄的蟻道？"
+    },
+    "options": [
+      {
+        "type": "text",
+        "content": "極度扁平、無眼、色澤呈現乳白或淡黃色"
+      },
+      {
+        "type": "text",
+        "content": "此選項為干擾項，與實際生物學機制不符"
+      },
+      {
+        "type": "text",
+        "content": "此選項為人工假設之錯誤敘述"
+      },
+      {
+        "type": "text",
+        "content": "此選項與等足類動物之生理結構無關"
+      }
+    ],
+    "correct": 0,
+    "explanation": "蟻巢鼠婦（Platyarthrus）的外觀通常呈現什麼極端的特徵來適應狹窄的蟻道？（極度扁平、無眼、色澤呈現乳白或淡黃色）"
+  },
+  {
+    "q": {
+      "type": "text",
+      "content": "評估一個鼠婦飼養系統是否達到「生物活性平衡（Bioactive equilibrium）」的黃金指標是什麼？"
+    },
+    "options": [
+      {
+        "type": "text",
+        "content": "分解者（鼠婦、跳蟲、蚯蚓）與真菌、植物之間形成物質循環，無需人工頻繁換土且不產生惡臭"
+      },
+      {
+        "type": "text",
+        "content": "此選項為干擾項，與實際生物學機制不符"
+      },
+      {
+        "type": "text",
+        "content": "此選項為人工假設之錯誤敘述"
+      },
+      {
+        "type": "text",
+        "content": "此選項與等足類動物之生理結構無關"
+      }
+    ],
+    "correct": 0,
+    "explanation": "評估一個鼠婦飼養系統是否達到「生物活性平衡（Bioactive equilibrium）」的黃金指標是什麼？（分解者（鼠婦、跳蟲、蚯蚓）與真菌、植物之間形成物質循環，無需人工頻繁換土且不產生惡臭）"
+  },
+  {
+    "q": {
+      "type": "text",
+      "content": "影響陸生等足類分佈的「氣候限制因子（Climatic limiting factors）」中，為什麼「飽和水汽壓差（Vapor Pressure Deficit, VPD）」對牠們的生存至關重要？"
+    },
+    "options": [
+      {
+        "type": "text",
+        "content": "VPD 決定了體表水分蒸發的速率，VPD 過高會導致鼠婦在數分鐘內因脫水而神經麻痺"
+      },
+      {
+        "type": "text",
+        "content": "此選項為干擾項，與實際生物學機制不符"
+      },
+      {
+        "type": "text",
+        "content": "此選項為人工假設之錯誤敘述"
+      },
+      {
+        "type": "text",
+        "content": "此選項與等足類動物之生理結構無關"
+      }
+    ],
+    "correct": 0,
+    "explanation": "影響陸生等足類分佈的「氣候限制因子（Climatic limiting factors）」中，為什麼「飽和水汽壓差（Vapor Pressure Deficit, VPD）」對牠們的生存至關重要？（VPD 決定了體表水分蒸發的速率，VPD 過高會導致鼠婦在數分鐘內因脫水而神經麻痺）"
+  },
+  {
+    "q": {
+      "type": "text",
+      "content": "飼養箱內若發生嚴重的「土壤線蟲（Nematodes）」氾濫，利用生物防治法可以引入哪一種天敵來控制？"
+    },
+    "options": [
+      {
+        "type": "text",
+        "content": "捕食性蟎類如 Hypoaspis miles 或線蟲捕捉天敵"
+      },
+      {
+        "type": "text",
+        "content": "此選項為干擾項，與實際生物學機制不符"
+      },
+      {
+        "type": "text",
+        "content": "此選項為人工假設之錯誤敘述"
+      },
+      {
+        "type": "text",
+        "content": "此選項與等足類動物之生理結構無關"
+      }
+    ],
+    "correct": 0,
+    "explanation": "飼養箱內若發生嚴重的「土壤線蟲（Nematodes）」氾濫，利用生物防治法可以引入哪一種天敵來控制？（捕食性蟎類如 Hypoaspis miles 或線蟲捕捉天敵）"
+  },
+  {
+    "q": {
+      "type": "text",
+      "content": "Armadillidium klugii 'Montenegro' 的背甲邊緣具有獨特的「鋸齒狀或外翻邊緣」，這在演化上對防禦掠食者有什麼物理作用？"
+    },
+    "options": [
+      {
+        "type": "text",
+        "content": "當捲成球體時，外翻邊緣能緊密咬合形成防護罩，防止掠食性昆蟲的口器刺入"
+      },
+      {
+        "type": "text",
+        "content": "此選項為干擾項，與實際生物學機制不符"
+      },
+      {
+        "type": "text",
+        "content": "此選項為人工假設之錯誤敘述"
+      },
+      {
+        "type": "text",
+        "content": "此選項與等足類動物之生理結構無關"
+      }
+    ],
+    "correct": 0,
+    "explanation": "Armadillidium klugii 'Montenegro' 的背甲邊緣具有獨特的「鋸齒狀或外翻邊緣」，這在演化上對防禦掠食者有什麼物理作用？（當捲成球體時，外翻邊緣能緊密咬合形成防護罩，防止掠食性昆蟲的口器刺入）"
+  },
+  {
+    "q": {
+      "type": "text",
+      "content": "某些高海拔或寒帶分佈的等足類（例如某些 Trichoniscidae 科成員）演化出了什麼特殊的抗寒生理機制？"
+    },
+    "options": [
+      {
+        "type": "text",
+        "content": "合成海藻糖（Trehalose）或抗凍蛋白以降低體液冰點"
+      },
+      {
+        "type": "text",
+        "content": "此選項為干擾項，與實際生物學機制不符"
+      },
+      {
+        "type": "text",
+        "content": "此選項為人工假設之錯誤敘述"
+      },
+      {
+        "type": "text",
+        "content": "此選項與等足類動物之生理結構無關"
+      }
+    ],
+    "correct": 0,
+    "explanation": "某些高海拔或寒帶分佈的等足類（例如某些 Trichoniscidae 科成員）演化出了什麼特殊的抗寒生理機制？（合成海藻糖（Trehalose）或抗凍蛋白以降低體液冰點）"
+  },
+  {
+    "q": {
+      "type": "text",
+      "content": "關於鼠婦的「視覺神經傳導」，雖然複眼結構簡單，但牠們對光譜中的哪一個波段最為敏感，飼養觀察時應避免使用該波段燈光？"
+    },
+    "options": [
+      {
+        "type": "text",
+        "content": "對藍綠光波段較敏感，夜間觀察建議使用紅光"
+      },
+      {
+        "type": "text",
+        "content": "此選項為干擾項，與實際生物學機制不符"
+      },
+      {
+        "type": "text",
+        "content": "此選項為人工假設之錯誤敘述"
+      },
+      {
+        "type": "text",
+        "content": "此選項與等足類動物之生理結構無關"
+      }
+    ],
+    "correct": 0,
+    "explanation": "關於鼠婦的「視覺神經傳導」，雖然複眼結構簡單，但牠們對光譜中的哪一個波段最為敏感，飼養觀察時應避免使用該波段燈光？（對藍綠光波段較敏感，夜間觀察建議使用紅光）"
+  },
+  {
+    "q": {
+      "type": "text",
+      "content": "在高階鼠婦的商業繁殖中，為什麼「分槽隔離淘汰法（Line breeding）」是維持特殊基因表現量（如極致紅斑或高密度白色斑塊）的唯一途徑？"
+    },
+    "options": [
+      {
+        "type": "text",
+        "content": "防止隱性基因被野生型基因稀釋，並持續淘汰劣質或表現型不穩定的個體"
+      },
+      {
+        "type": "text",
+        "content": "此選項為干擾項，與實際生物學機制不符"
+      },
+      {
+        "type": "text",
+        "content": "此選項為人工假設之錯誤敘述"
+      },
+      {
+        "type": "text",
+        "content": "此選項與等足類動物之生理結構無關"
+      }
+    ],
+    "correct": 0,
+    "explanation": "在高階鼠婦的商業繁殖中，為什麼「分槽隔離淘汰法（Line breeding）」是維持特殊基因表現量（如極致紅斑或高密度白色斑塊）的唯一途徑？（防止隱性基因被野生型基因稀釋，並持續淘汰劣質或表現型不穩定的個體）"
+  },
+  {
+    "q": {
+      "type": "text",
+      "content": "Cubaris sp. \"Blue Pigeon\"（藍鴿鼠婦）的體色呈現特殊的灰藍色，其藍色調的物理成因是由於外骨骼表面的什麼結構產生的？"
+    },
+    "options": [
+      {
+        "type": "text",
+        "content": "奈米結構產生的物理性結構色 / Structural coloration，而非單純色素"
+      },
+      {
+        "type": "text",
+        "content": "此選項為干擾項，與實際生物學機制不符"
+      },
+      {
+        "type": "text",
+        "content": "此選項為人工假設之錯誤敘述"
+      },
+      {
+        "type": "text",
+        "content": "此選項與等足類動物之生理結構無關"
+      }
+    ],
+    "correct": 0,
+    "explanation": "Cubaris sp. \"Blue Pigeon\"（藍鴿鼠婦）的體色呈現特殊的灰藍色，其藍色調的物理成因是由於外骨骼表面的什麼結構產生的？（奈米結構產生的物理性結構色 / Structural coloration，而非單純色素）"
+  },
+  {
+    "q": {
+      "type": "text",
+      "content": "為什麼有些鼠婦在長期攝取單一食物（例如僅餵食單一種蔬菜）後會出現消化道堵塞或營養性死亡？"
+    },
+    "options": [
+      {
+        "type": "text",
+        "content": "缺乏木質素分解酶或必需脂肪酸，導致腸道菌群失衡"
+      },
+      {
+        "type": "text",
+        "content": "此選項為干擾項，與實際生物學機制不符"
+      },
+      {
+        "type": "text",
+        "content": "此選項為人工假設之錯誤敘述"
+      },
+      {
+        "type": "text",
+        "content": "此選項與等足類動物之生理結構無關"
+      }
+    ],
+    "correct": 0,
+    "explanation": "為什麼有些鼠婦在長期攝取單一食物（例如僅餵食單一種蔬菜）後會出現消化道堵塞或營養性死亡？（缺乏木質素分解酶或必需脂肪酸，導致腸道菌群失衡）"
+  },
+  {
+    "q": {
+      "type": "text",
+      "content": "當飼養箱內的濕度計顯示相對濕度高達 90% 以上但通風不良時，為什麼鼠婦仍然會出現脫水死亡的假象？"
+    },
+    "options": [
+      {
+        "type": "text",
+        "content": "因為空氣滯留導致偽氣管周圍局部微氣候的二氧化碳過高、氨氣中毒，引發神經系統麻痺而非單純脫水"
+      },
+      {
+        "type": "text",
+        "content": "此選項為干擾項，與實際生物學機制不符"
+      },
+      {
+        "type": "text",
+        "content": "此選項為人工假設之錯誤敘述"
+      },
+      {
+        "type": "text",
+        "content": "此選項與等足類動物之生理結構無關"
+      }
+    ],
+    "correct": 0,
+    "explanation": "當飼養箱內的濕度計顯示相對濕度高達 90% 以上但通風不良時，為什麼鼠婦仍然會出現脫水死亡的假象？（因為空氣滯留導致偽氣管周圍局部微氣候的二氧化碳過高、氨氣中毒，引發神經系統麻痺而非單純脫水）"
+  },
+  {
+    "q": {
+      "type": "text",
+      "content": "Armadillidium corcyraeum 或某些地中海特有種，其雄性個體的生殖附肢（Pleopodal exopodite I/II）在顯微鏡下具有什麼高階分類鑑別價值？"
+    },
+    "options": [
+      {
+        "type": "text",
+        "content": "其特化的交接刺結構與剛毛排列是區分近緣種的決定性依據"
+      },
+      {
+        "type": "text",
+        "content": "此選項為干擾項，與實際生物學機制不符"
+      },
+      {
+        "type": "text",
+        "content": "此選項為人工假設之錯誤敘述"
+      },
+      {
+        "type": "text",
+        "content": "此選項與等足類動物之生理結構無關"
+      }
+    ],
+    "correct": 0,
+    "explanation": "Armadillidium corcyraeum 或某些地中海特有種，其雄性個體的生殖附肢（Pleopodal exopodite I/II）在顯微鏡下具有什麼高階分類鑑別價值？（其特化的交接刺結構與剛毛排列是區分近緣種的決定性依據）"
+  },
+  {
+    "q": {
+      "type": "text",
+      "content": "試述鼠婦的「蛻皮激素（Ecdysone）」是由哪一個內分泌腺體釋放，並受抑制激素（Inhibiting hormone）如何調控？"
+    },
+    "options": [
+      {
+        "type": "text",
+        "content": "由 Y-器官分泌，受來自眼柄/頭部竇腺複合體的蛻皮抑制激素（MIH）負回饋調控"
+      },
+      {
+        "type": "text",
+        "content": "此選項為干擾項，與實際生物學機制不符"
+      },
+      {
+        "type": "text",
+        "content": "此選項為人工假設之錯誤敘述"
+      },
+      {
+        "type": "text",
+        "content": "此選項與等足類動物之生理結構無關"
+      }
+    ],
+    "correct": 0,
+    "explanation": "試述鼠婦的「蛻皮激素（Ecdysone）」是由哪一個內分泌腺體釋放，並受抑制激素（Inhibiting hormone）如何調控？（由 Y-器官分泌，受來自眼柄/頭部竇腺複合體的蛻皮抑制激素（MIH）負回饋調控）"
+  },
+  {
+    "q": {
+      "type": "text",
+      "content": "為什麼在佈置高濕度雨林屬（如 Cubaris 或 Merulanella）的飼養箱時，底土必須含有豐富的「泥炭苔與腐植質複合層」？"
+    },
+    "options": [
+      {
+        "type": "text",
+        "content": "維持穩定的弱酸性環境，並提供持續釋放腐殖酸與微生物的緩衝能力"
+      },
+      {
+        "type": "text",
+        "content": "此選項為干擾項，與實際生物學機制不符"
+      },
+      {
+        "type": "text",
+        "content": "此選項為人工假設之錯誤敘述"
+      },
+      {
+        "type": "text",
+        "content": "此選項與等足類動物之生理結構無關"
+      }
+    ],
+    "correct": 0,
+    "explanation": "為什麼在佈置高濕度雨林屬（如 Cubaris 或 Merulanella）的飼養箱時，底土必須含有豐富的「泥炭苔與腐植質複合層」？（維持穩定的弱酸性環境，並提供持續釋放腐殖酸與微生物的緩衝能力）"
+  },
+  {
+    "q": {
+      "type": "text",
+      "content": "Cubaris sp. \"Karst\" 品系對飼養環境中的「鎂離子與鈣離子比例」有何嚴格要求？"
+    },
+    "options": [
+      {
+        "type": "text",
+        "content": "需要極高比例的鈣離子相對於鎂離子，以維持外骨骼碳酸鈣結晶的完整性"
+      },
+      {
+        "type": "text",
+        "content": "此選項為干擾項，與實際生物學機制不符"
+      },
+      {
+        "type": "text",
+        "content": "此選項為人工假設之錯誤敘述"
+      },
+      {
+        "type": "text",
+        "content": "此選項與等足類動物之生理結構無關"
+      }
+    ],
+    "correct": 0,
+    "explanation": "Cubaris sp. \"Karst\" 品系對飼養環境中的「鎂離子與鈣離子比例」有何嚴格要求？（需要極高比例的鈣離子相對於鎂離子，以維持外骨骼碳酸鈣結晶的完整性）"
+  },
+  {
+    "q": {
+      "type": "text",
+      "content": "檢視陸生等足類的系統發育樹（Phylogenetic tree），牠們從水生轉為陸生的演化路徑中，哪一個生理系統的改造最為艱難？"
+    },
+    "options": [
+      {
+        "type": "text",
+        "content": "呼吸系統從鰓演化為內部氣管/偽氣管，以及排泄系統由排泄氨改為陸生適應"
+      },
+      {
+        "type": "text",
+        "content": "此選項為干擾項，與實際生物學機制不符"
+      },
+      {
+        "type": "text",
+        "content": "此選項為人工假設之錯誤敘述"
+      },
+      {
+        "type": "text",
+        "content": "此選項與等足類動物之生理結構無關"
+      }
+    ],
+    "correct": 0,
+    "explanation": "檢視陸生等足類的系統發育樹（Phylogenetic tree），牠們從水生轉為陸生的演化路徑中，哪一個生理系統的改造最為艱難？（呼吸系統從鰓演化為內部氣管/偽氣管，以及排泄系統由排泄氨改為陸生適應）"
+  },
+  {
+    "q": {
+      "type": "text",
+      "content": "某些鼠婦品系在遭遇劇烈震動時會釋放微量的「揮發性防禦有機分子」，這些分子的主要化學結構通常包含哪一類化合物？"
+    },
+    "options": [
+      {
+        "type": "text",
+        "content": "萜烯類或低分子量脂肪酸衍生物"
+      },
+      {
+        "type": "text",
+        "content": "此選項為干擾項，與實際生物學機制不符"
+      },
+      {
+        "type": "text",
+        "content": "此選項為人工假設之錯誤敘述"
+      },
+      {
+        "type": "text",
+        "content": "此選項與等足類動物之生理結構無關"
+      }
+    ],
+    "correct": 0,
+    "explanation": "某些鼠婦品系在遭遇劇烈震動時會釋放微量的「揮發性防禦有機分子」，這些分子的主要化學結構通常包含哪一類化合物？（萜烯類或低分子量脂肪酸衍生物）"
+  },
+  {
+    "q": {
+      "type": "text",
+      "content": "飼養箱內的「生物碳循環」中，鼠婦將落葉分解為微細糞便後，下一階段主要依賴什麼生物將其轉化為植物可吸收的無機鹽？"
+    },
+    "options": [
+      {
+        "type": "text",
+        "content": "土壤細菌、放線菌與真菌群落"
+      },
+      {
+        "type": "text",
+        "content": "此選項為干擾項，與實際生物學機制不符"
+      },
+      {
+        "type": "text",
+        "content": "此選項為人工假設之錯誤敘述"
+      },
+      {
+        "type": "text",
+        "content": "此選項與等足類動物之生理結構無關"
+      }
+    ],
+    "correct": 0,
+    "explanation": "飼養箱內的「生物碳循環」中，鼠婦將落葉分解為微細糞便後，下一階段主要依賴什麼生物將其轉化為植物可吸收的無機鹽？（土壤細菌、放線菌與真菌群落）"
+  },
+  {
+    "q": {
+      "type": "text",
+      "content": "Cubaris sp. \"Pak Chong\"（巴衝鼠婦）原產於泰國哪一種特殊地質區域？"
+    },
+    "options": [
+      {
+        "type": "text",
+        "content": "巴衝縣的石灰岩山洞外圍森林及溶洞堆積區"
+      },
+      {
+        "type": "text",
+        "content": "此選項為干擾項，與實際生物學機制不符"
+      },
+      {
+        "type": "text",
+        "content": "此選項為人工假設之錯誤敘述"
+      },
+      {
+        "type": "text",
+        "content": "此選項與等足類動物之生理結構無關"
+      }
+    ],
+    "correct": 0,
+    "explanation": "Cubaris sp. \"Pak Chong\"（巴衝鼠婦）原產於泰國哪一種特殊地質區域？（巴衝縣的石灰岩山洞外圍森林及溶洞堆積區）"
+  },
+  {
+    "q": {
+      "type": "text",
+      "content": "基因突變中的「Leucistic」（黃化/體色退化但不影響眼球顏色）與「Albino」（白化且紅眼）在繁殖育種上的最大基因差異是什麼？"
+    },
+    "options": [
+      {
+        "type": "text",
+        "content": "Leucistic 保留了眼部的黑色素，通常在視力與對光的適應力上遠優於 Albino"
+      },
+      {
+        "type": "text",
+        "content": "此選項為干擾項，與實際生物學機制不符"
+      },
+      {
+        "type": "text",
+        "content": "此選項為人工假設之錯誤敘述"
+      },
+      {
+        "type": "text",
+        "content": "此選項與等足類動物之生理結構無關"
+      }
+    ],
+    "correct": 0,
+    "explanation": "基因突變中的「Leucistic」（黃化/體色退化但不影響眼球顏色）與「Albino」（白化且紅眼）在繁殖育種上的最大基因差異是什麼？（Leucistic 保留了眼部的黑色素，通常在視力與對光的適應力上遠優於 Albino）"
+  },
+  {
+    "q": {
+      "type": "text",
+      "content": "在建構一個完美的、可自主運作數年不需換土的頂級生物活性鼠婦飼養生態缸時，最核心的系統動態平衡公式是什麼？"
+    },
+    "options": [
+      {
+        "type": "text",
+        "content": "「碳源輸入量 = 鼠婦與分解者消耗量 + 微生物降解率」，並嚴格鎖定 VPD、碳酸鈣補給與乾濕分區的動態恆定"
+      },
+      {
+        "type": "text",
+        "content": "此選項為干擾項，與實際生物學機制不符"
+      },
+      {
+        "type": "text",
+        "content": "此選項為人工假設之錯誤敘述"
+      },
+      {
+        "type": "text",
+        "content": "此選項與等足類動物之生理結構無關"
+      }
+    ],
+    "correct": 0,
+    "explanation": "在建構一個完美的、可自主運作數年不需換土的頂級生物活性鼠婦飼養生態缸時，最核心的系統動態平衡公式是什麼？（「碳源輸入量 = 鼠婦與分解者消耗量 + 微生物降解率」，並嚴格鎖定 VPD、碳酸鈣補給與乾濕分區的動態恆定）"
+  }
+]
+}
