@@ -36,16 +36,16 @@ const cardDefinitions = [
   { id: 8, name: "卡片 8", description: "简单难度满分3次", rarity: "稀有", condition: { type: "perfect_easy", value: 3 }, image: "card_8.png" },
   { id: 9, name: "卡片 9", description: "简单难度累计答对200道题目", rarity: "稀有", condition: { type: "easy_correct", value: 200 }, image: "card_9.png" },
   { id: 10, name: "卡片 10", description: "简单难度满分5次", rarity: "稀有", condition: { type: "perfect_easy", value: 5 }, image: "card_10.png" },
-  { id: 11, name: "卡片 11", description: "困难难度满分1次", rarity: "稀有", condition: { type: "perfect_hard", value: 1 }, icon: "💪" },
-  { id: 12, name: "卡片 12", description: "困难难度累计答对50道题目", rarity: "稀有", condition: { type: "hard_correct", value: 50 }, icon: "🔥" },
-  { id: 13, name: "卡片 13", description: "困难难度满分3次", rarity: "非常稀有", condition: { type: "perfect_hard", value: 3 }, icon: "💎" },
-  { id: 14, name: "卡片 14", description: "困难难度累计答对150道题目", rarity: "非常稀有", condition: { type: "hard_correct", value: 150 }, icon: "🏆" },
-  { id: 15, name: "卡片 15", description: "困难难度满分5次", rarity: "非常稀有", condition: { type: "perfect_hard", value: 5 }, icon: "🌟" },
-  { id: 16, name: "卡片 16", description: "地狱难度满分1次", rarity: "非常稀有", condition: { type: "perfect_hell", value: 1 }, icon: "👿" },
-  { id: 17, name: "卡片 17", description: "地狱难度累计答对30道题目", rarity: "非常稀有", condition: { type: "hell_correct", value: 30 }, icon: "⚡" },
-  { id: 18, name: "卡片 18", description: "地狱难度满分2次", rarity: "传说", condition: { type: "perfect_hell", value: 2 }, icon: "🌠" },
-  { id: 19, name: "卡片 19", description: "累计答对200道题目（全难度）", rarity: "传说", condition: { type: "total_correct", value: 200 }, icon: "💫" },
-  { id: 20, name: "卡片 20", description: "累计答对300道题目（终极成就）", rarity: "传说", condition: { type: "total_correct", value: 300 }, icon: "👑✨" }
+  { id: 11, name: "卡片 11", description: "困难难度满分1次", rarity: "稀有", condition: { type: "perfect_hard", value: 1 }, image: "card_11.png" },
+  { id: 12, name: "卡片 12", description: "困难难度累计答对50道题目", rarity: "稀有", condition: { type: "hard_correct", value: 50 }, image: "card_12.png" },
+  { id: 13, name: "卡片 13", description: "困难难度满分3次", rarity: "非常稀有", condition: { type: "perfect_hard", value: 3 }, image: "card_13.png" },
+  { id: 14, name: "卡片 14", description: "困难难度累计答对150道题目", rarity: "非常稀有", condition: { type: "hard_correct", value: 150 }, image: "card_14.png" },
+  { id: 15, name: "卡片 15", description: "困难难度满分5次", rarity: "非常稀有", condition: { type: "perfect_hard", value: 5 }, image: "card_15.png" },
+  { id: 16, name: "卡片 16", description: "地狱难度满分1次", rarity: "非常稀有", condition: { type: "perfect_hell", value: 1 }, image: "card_16.png" },
+  { id: 17, name: "卡片 17", description: "地狱难度累计答对30道题目", rarity: "非常稀有", condition: { type: "hell_correct", value: 30 }, image: "card_17.png" },
+  { id: 18, name: "卡片 18", description: "地狱难度满分2次", rarity: "传说", condition: { type: "perfect_hell", value: 2 }, image: "card_18.png" },
+  { id: 19, name: "卡片 19", description: "累计答对200道题目（全难度）", rarity: "传说", condition: { type: "total_correct", value: 200 },image: "card_19.png" },
+  { id: 20, name: "卡片 20", description: "累计答对300道题目（终极成就）", rarity: "传说", condition: { type: "total_correct", value: 300 }, image: "card_20.png" }
 ];
 
 // ===== 初始化卡片收集 =====
@@ -177,6 +177,183 @@ const playSound = (type) => {
 // ===== 默认题库 =====
 const defaultQuestions = {
   "easy": [
+  {
+  q: { 
+    type: "image", 
+    content: "/questions/isopod_木星.png",
+    prompt: "這是哪一種鼠婦？"  // ← 加这个说明
+  },
+  options: [
+    { type: "text", content: "熊貓王鼠婦" },
+    { type: "text", content: "木星鼠婦" },
+    { type: "text", content: "檸檬藍鼠婦" },
+    { type: "text", content: "琥珀鼠婦" }
+  ],
+  correct: 1,
+  explanation: "這是木星鼠婦！"
+},
+{
+  q: { 
+    type: "image", 
+    content: "/questions/isopod_白寫.png",
+    prompt: "這是哪一種鼠婦？"  // 
+  },
+  options: [
+    { type: "text", content: "乳牛鼠婦" },
+    { type: "text", content: "大麥町鼠婦" },
+    { type: "text", content: "白寫鼠婦" },
+    { type: "text", content: "雪霸鼠婦" }
+  ],
+  correct: 2,
+  explanation: "這是白寫鼠婦！"
+},
+{
+  q: { 
+    type: "image", 
+    content: "/questions/公母.png",
+    prompt: "這一張圖片公母分辨？"  
+  },
+  options: [
+    { type: "text", content: "左公左公" },
+    { type: "text", content: "左公右母" },
+    { type: "text", content: "左母右公" },
+    { type: "text", content: "左母右母" }
+  ],
+  correct: 1,
+  explanation: "左公右母"
+},
+{
+  q: { 
+    type: "text", 
+    content: "哪一種是羊蹄角?",
+  },
+  options: [
+    { type: "image", content: "/questions/波羅蜜葉.png" },  // ← 改成图片
+    { type: "image", content: "/questions/桑葉.png" },
+    { type: "image", content: "/questions/羊蹄角.png" },
+    { type: "image", content: "/questions/構樹葉.png" }
+  ],
+  correct: 2,  // 第一张图片是正确答案
+  explanation: "這是羊蹄角"
+},
+{
+  q: { 
+    type: "text", 
+    content: "哪一種是波羅蜜葉?",
+  },
+  options: [
+    { type: "image", content: "/questions/波羅蜜葉.png" },  // ← 改成图片
+    { type: "image", content: "/questions/桑葉.png" },
+    { type: "image", content: "/questions/羊蹄角.png" },
+    { type: "image", content: "/questions/構樹葉.png" }
+  ],
+  correct: 0,  // 第一张图片是正确答案
+  explanation: "這是波羅蜜葉"
+},
+ {
+      "q": {
+        "type": "text",
+        "content": "鼠婦盒中那種生物最不容易出現？"
+      },
+      "options": [
+        {
+          "type": "text",
+          "content": "跳蟲"
+        },
+        {
+          "type": "text",
+          "content": "木蚋"
+        },
+        {
+          "type": "text",
+          "content": "蟎"
+        },
+        {
+          "type": "text",
+          "content": "跳蚤"
+        }
+      ],
+      "correct": 3,
+      "explanation": "跳蚤"
+    },
+	{
+      "q": {
+        "type": "text",
+        "content": "葉子發霉對鼠婦的影響，下面那個無關？"
+      },
+      "options": [
+        {
+          "type": "text",
+          "content": "可能會躲寶寶"
+        },
+        {
+          "type": "text",
+          "content": "苞子有可能造成身體過敏"
+        },
+        {
+          "type": "text",
+          "content": "發霉的葉子不會那麼愛吃"
+        },
+        {
+          "type": "text",
+          "content": "發霉會更愛吃"
+        }
+      ],
+      "correct": 3,
+      "explanation": "發霉會更愛吃無關"
+    },
+	{
+      "q": {
+        "type": "text",
+        "content": "用土做悶葉的一開始提倡者是誰？"
+      },
+      "options": [
+        {
+          "type": "text",
+          "content": "米米"
+        },
+        {
+          "type": "text",
+          "content": "鳥姐"
+        },
+        {
+          "type": "text",
+          "content": "阿米"
+        },
+        {
+          "type": "text",
+          "content": "-43"
+        }
+      ],
+      "correct": 1,
+      "explanation": "鳥姐"
+    },
+	 {
+      "q": {
+        "type": "text",
+        "content": "麥飯石功能不含下面那一個？"
+      },
+      "options": [
+        {
+          "type": "text",
+          "content": "富含礦物質與微量元素"
+        },
+        {
+          "type": "text",
+          "content": "具有保水性"
+        },
+        {
+          "type": "text",
+          "content": "提供攀爮做運動"
+        },
+        {
+          "type": "text",
+          "content": "從石頭上澆水容易滲透至土裡不積水"
+        }
+      ],
+      "correct": 2,
+      "explanation": "不含提供攀爮做運動"
+    },
     {
       "q": {
         "type": "text",
@@ -1480,6 +1657,32 @@ const defaultQuestions = {
   ],
   "hard": [
     {
+      "q": {
+        "type": "text",
+        "content": "下面那個不能增色木星/檸檬藍？"
+      },
+      "options": [
+        {
+          "type": "text",
+          "content": "養在暗處"
+        },
+        {
+          "type": "text",
+          "content": "餵食藍綠藻（又稱螺旋藻）"
+        },
+        {
+          "type": "text",
+          "content": "餵食蛋白質飼料"
+        },
+        {
+          "type": "text",
+          "content": "餵食增豔食物，如南極蝦乾、南瓜、胡蘿蔔"
+        }
+      ],
+      "correct": 2,
+      "explanation": "餵食蛋白質飼料"
+    },
+	{
       "q": {
         "type": "text",
         "content": "鼠婦在陸地生活面臨的最大生理挑戰是什麼？"
@@ -4692,22 +4895,53 @@ if (isAdminMode) {
             <span>✓ {score}/{currentQuestion}</span>
           </div>
 
-          <div className="question-card">
-            <div className="question-text">
-              {q.q.type === 'text' ? q.q.content : '[圖片題目]'}
-            </div>
-            <div className="options">
-              {q.options.map((option, idx) => (
-                <button
-                  key={idx}
-                  className="option-btn"
-                  onClick={() => handleAnswer(idx)}
-                >
-                  {String.fromCharCode(65 + idx)}. {option.type === 'text' ? option.content : '圖片選項'}
-                </button>
-              ))}
-            </div>
-          </div>
+<div className="question-card">
+  {/* 图片 */}
+  {q.q.type === 'image' && (
+    <img 
+      src={q.q.content}
+      alt="题目图片"
+      style={{ width: '100%', maxWidth: '400px', borderRadius: '8px', marginBottom: '20px' }}
+    />
+  )}
+  
+  {/* 说明文字 */}
+  <div className="question-text">
+    {q.q.type === 'text' ? q.q.content : (q.q.prompt || '请选择正确答案')}
+  </div>
+  
+  {/* 选项 */}
+ <div className="options" style={{ display: 'grid', gridTemplateColumns: 'repeat(2, 1fr)', gap: '12px' }}>
+  {q.options.map((option, idx) => (
+    <button
+      key={idx}
+      className="option-btn"
+      onClick={() => handleAnswer(idx)}
+      style={{
+        padding: '8px',
+        display: 'flex',
+        flexDirection: 'column',
+        alignItems: 'center',
+        justifyContent: 'center',
+        minHeight: '150px'
+      }}
+    >
+      {option.type === 'image' ? (
+        <img 
+          src={option.content}
+          alt={`选项 ${String.fromCharCode(65 + idx)}`}
+          style={{ width: '100%', height: '100%', borderRadius: '8px', objectFit: 'cover' }}
+        />
+      ) : (
+        <>
+          <span style={{ fontSize: '12px', marginBottom: '8px' }}>{String.fromCharCode(65 + idx)}</span>
+          {option.content}
+        </>
+      )}
+    </button>
+  ))}
+</div>
+</div>
         </div>
       </div>
     );
