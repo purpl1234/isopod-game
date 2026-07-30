@@ -26,7 +26,7 @@ try {
 
 // ===== 20张卡片定义 =====
 const cardDefinitions = [
-  { id: 1, name: "卡片 1", description: "答对1道题目", rarity: "普通", condition: { type: "total_correct", value: 1 }, image: "card_1.png" },
+  { id: 1, name: "卡片 1", description: "答对1道题目", rarity: "普通", condition: { type: "total_correct", value: 1 }, image: "card_10.png" },
   { id: 2, name: "卡片 2", description: "累计答对10道题目", rarity: "普通", condition: { type: "total_correct", value: 10 }, image: "card_2.png" },
   { id: 3, name: "卡片 3", description: "累计答对30道题目", rarity: "普通", condition: { type: "total_correct", value: 30 }, image: "card_3.png" },
   { id: 4, name: "卡片 4", description: "累计答对50道题目", rarity: "普通", condition: { type: "total_correct", value: 50 }, image: "card_4.png" },
@@ -35,7 +35,7 @@ const cardDefinitions = [
   { id: 7, name: "卡片 7", description: "简单难度累计答对100道题目", rarity: "普通", condition: { type: "easy_correct", value: 100 }, image: "card_7.png" },
   { id: 8, name: "卡片 8", description: "简单难度满分3次", rarity: "稀有", condition: { type: "perfect_easy", value: 3 }, image: "card_8.png" },
   { id: 9, name: "卡片 9", description: "简单难度累计答对200道题目", rarity: "稀有", condition: { type: "easy_correct", value: 200 }, image: "card_9.png" },
-  { id: 10, name: "卡片 10", description: "简单难度满分5次", rarity: "稀有", condition: { type: "perfect_easy", value: 5 }, image: "card_10.png" },
+  { id: 10, name: "卡片 10", description: "简单难度满分5次", rarity: "稀有", condition: { type: "perfect_easy", value: 5 }, image: "card_1.png" },
   { id: 11, name: "卡片 11", description: "困难难度满分1次", rarity: "稀有", condition: { type: "perfect_hard", value: 1 }, image: "card_11.png" },
   { id: 12, name: "卡片 12", description: "困难难度累计答对50道题目", rarity: "稀有", condition: { type: "hard_correct", value: 50 }, image: "card_12.png" },
   { id: 13, name: "卡片 13", description: "困难难度满分3次", rarity: "非常稀有", condition: { type: "perfect_hard", value: 3 }, image: "card_13.png" },
