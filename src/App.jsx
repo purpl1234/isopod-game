@@ -3798,7 +3798,7 @@ const defaultQuestions = {
       "options": [
         {
           "type": "text",
-          "content": "VPD 決定了體表水分蒸發的速率，VPD 過高會導致鼠婦在數分鐘內因脫水而神經麻痺"
+          "content": "VPD 過低會使空氣中的氧氣濃度驟降，引發鼠婦群體性的呼吸困難"
         },
         {
           "type": "text",
@@ -3810,10 +3810,10 @@ const defaultQuestions = {
         },
         {
           "type": "text",
-          "content": "VPD 過低會使空氣中的氧氣濃度驟降，引發鼠婦群體性的呼吸困難"
+          "content": "VPD 決定了體表水分蒸發的速率，VPD 過高會導致鼠婦在數分鐘內因脫水而神經麻痺"
         }
       ],
-      "correct": 0,
+      "correct": 3,
       "explanation": "影響陸生等足類分佈的「氣候限制因子（Climatic limiting factors）」中，為什麼「飽和水汽壓差（Vapor Pressure Deficit, VPD）」對牠們的生存至關重要？（VPD 決定了體表水分蒸發的速率，VPD 過高會導致鼠婦在數分鐘內因脫水而神經麻痺）"
     },
     {
@@ -3824,7 +3824,7 @@ const defaultQuestions = {
       "options": [
         {
           "type": "text",
-          "content": "捕食性蟎類如 Hypoaspis miles 或線蟲捕捉天敵"
+          "content": "噴灑高濃度的銅離子溶液來消滅線蟲，同時對鼠婦完全無害"
         },
         {
           "type": "text",
@@ -3832,14 +3832,14 @@ const defaultQuestions = {
         },
         {
           "type": "text",
-          "content": "噴灑高濃度的銅離子溶液來消滅線蟲，同時對鼠婦完全無害"
+          "content": "捕食性蟎類如 Hypoaspis miles 或線蟲捕捉天敵"
         },
         {
           "type": "text",
           "content": "引入寄生性蜂類，專門將卵產在線蟲體內以達到生物滅絕效果"
         }
       ],
-      "correct": 0,
+      "correct": 2,
       "explanation": "飼養箱內若發生嚴重的「土壤線蟲（Nematodes）」氾濫，利用生物防治法可以引入哪一種天敵來控制？（捕食性蟎類如 Hypoaspis miles 或線蟲捕捉天敵）"
     },
     {
@@ -3850,7 +3850,7 @@ const defaultQuestions = {
       "options": [
         {
           "type": "text",
-          "content": "當捲成球體時，外翻邊緣能緊密咬合形成防護罩，防止掠食性昆蟲的口器刺入"
+          "content": "能藉由肌肉收縮讓鋸齒互相摩擦發出高頻聲音，藉此嚇阻小型哺乳類掠食者"
         },
         {
           "type": "text",
@@ -3858,14 +3858,14 @@ const defaultQuestions = {
         },
         {
           "type": "text",
-          "content": "能藉由肌肉收縮讓鋸齒互相摩擦發出高頻聲音，藉此嚇阻小型哺乳類掠食者"
+          "content": "當捲成球體時，外翻邊緣能緊密咬合形成防護罩，防止掠食性昆蟲的口器刺入"
         },
         {
           "type": "text",
           "content": "作為太陽能集熱板，能快速吸收環境熱能來提高清晨的活動代謝率"
         }
       ],
-      "correct": 0,
+      "correct": 2,
       "explanation": "Armadillidium klugii 'Montenegro' 的背甲邊緣具有獨特的「鋸齒狀或外翻邊緣」，這在演化上對防禦掠食者有什麼物理作用？（當捲成球體時，外翻邊緣能緊密咬合形成防護罩，防止掠食性昆蟲的口器刺入）"
     },
     {
@@ -3876,7 +3876,7 @@ const defaultQuestions = {
       "options": [
         {
           "type": "text",
-          "content": "合成海藻糖（Trehalose）或抗凍蛋白以降低體液冰點"
+          "content": "將體內的水分完全排乾，僅依靠體內殘存的油脂進行極低溫度的休眠"
         },
         {
           "type": "text",
@@ -3884,14 +3884,14 @@ const defaultQuestions = {
         },
         {
           "type": "text",
-          "content": "將體內的水分完全排乾，僅依靠體內殘存的油脂進行極低溫度的休眠"
+          "content": "合成海藻糖（Trehalose）或抗凍蛋白以降低體液冰點"
         },
         {
           "type": "text",
           "content": "主動挖掘數公尺深的凍土地下道，靠著地熱維持夏季時的正常活動生理"
         }
       ],
-      "correct": 0,
+      "correct": 2,
       "explanation": "某些高海拔或寒帶分佈的等足類（例如某些 Trichoniscidae 科成員）演化出了什麼特殊的抗寒生理機制？（合成海藻糖（Trehalose）或抗凍蛋白以降低體液冰點）"
     },
     {
@@ -3902,7 +3902,7 @@ const defaultQuestions = {
       "options": [
         {
           "type": "text",
-          "content": "對藍綠光波段較敏感，夜間觀察建議使用紅光"
+          "content": "對黃橘色光譜反應最強烈，夜間應全面採用藍光燈管進行低擾動觀察"
         },
         {
           "type": "text",
@@ -3914,10 +3914,10 @@ const defaultQuestions = {
         },
         {
           "type": "text",
-          "content": "對黃橘色光譜反應最強烈，夜間應全面採用藍光燈管進行低擾動觀察"
+          "content": "對藍綠光波段較敏感，夜間觀察建議使用紅光"
         }
       ],
-      "correct": 0,
+      "correct": 3,
       "explanation": "關於鼠婦的「視覺神經傳導」，雖然複眼結構簡單，但牠們對光譜中的哪一個波段最為敏感，飼養觀察時應避免使用該波段燈光？（對藍綠光波段較敏感，夜間觀察建議使用紅光）"
     },
     {
@@ -3954,11 +3954,11 @@ const defaultQuestions = {
       "options": [
         {
           "type": "text",
-          "content": "奈米結構產生的物理性結構色 / Structural coloration，而非單純色素"
+          "content": "外骨骼表層沉積了大量的藍銅礦微粒，透過化學鍵結形成永久性藍色"
         },
         {
           "type": "text",
-          "content": "外骨骼表層沉積了大量的藍銅礦微粒，透過化學鍵結形成永久性藍色"
+          "content": "奈米結構產生的物理性結構色 / Structural coloration，而非單純色素"
         },
         {
           "type": "text",
@@ -3980,7 +3980,7 @@ const defaultQuestions = {
       "options": [
         {
           "type": "text",
-          "content": "缺乏木質素分解酶或必需脂肪酸，導致腸道菌群失衡"
+          "content": "單一食物無法提供足夠的鈉離子，導致鼠婦的心臟肌肉因失去電解質而停止跳動"
         },
         {
           "type": "text",
@@ -3988,14 +3988,14 @@ const defaultQuestions = {
         },
         {
           "type": "text",
-          "content": "單一食物無法提供足夠的鈉離子，導致鼠婦的心臟肌肉因失去電解質而停止跳動"
+          "content": "缺乏木質素分解酶或必需脂肪酸，導致腸道菌群失衡"
         },
         {
           "type": "text",
           "content": "蔬菜表面的殘留水分過高，會直接導致鼠婦的胃部吸水膨脹破裂"
         }
       ],
-      "correct": 0,
+      "correct": 2,
       "explanation": "為什麼有些鼠婦在長期攝取單一食物（例如僅餵食單一種蔬菜）後會出現消化道堵塞或營養性死亡？（缺乏木質素分解酶或必需脂肪酸，導致腸道菌群失衡）"
     },
     {
@@ -4006,7 +4006,7 @@ const defaultQuestions = {
       "options": [
         {
           "type": "text",
-          "content": "因為空氣滯留導致偽氣管周圍局部微氣候的二氧化碳過高、氨氣中毒，引發神經系統麻痺而非單純脫水"
+          "content":"濕度過高會使外骨骼表面的水分張力過大，導致鼠婦無法順利張開口器進食而餓死"
         },
         {
           "type": "text",
@@ -4014,14 +4014,14 @@ const defaultQuestions = {
         },
         {
           "type": "text",
-          "content": "濕度過高會使外骨骼表面的水分張力過大，導致鼠婦無法順利張開口器進食而餓死"
+          "content":  "因為空氣滯留導致偽氣管周圍局部微氣候的二氧化碳過高、氨氣中毒，引發神經系統麻痺而非單純脫水"
         },
         {
           "type": "text",
           "content": "高濕氣會破壞鼠婦體表的防水蠟質層，使體內水分以更快的速度向外蒸發流失"
         }
       ],
-      "correct": 0,
+      "correct": 2,
       "explanation": "當飼養箱內的濕度計顯示相對濕度高達 90% 以上但通風不良時，為什麼鼠婦仍然會出現脫水死亡的假象？（因為空氣滯留導致偽氣管周圍局部微氣候的二氧化碳過高、氨氣中毒，引發神經系統麻痺而非單純脫水）"
     },
     {
@@ -4032,11 +4032,11 @@ const defaultQuestions = {
       "options": [
         {
           "type": "text",
-          "content": "其特化的交接刺結構與剛毛排列是區分近緣種的決定性依據"
+          "content": "其長度比例直接對應其年齡與脫殼次數，能精準推算個體的壽命"
         },
         {
           "type": "text",
-          "content": "其長度比例直接對應其年齡與脫殼次數，能精準推算個體的壽命"
+          "content": "其特化的交接刺結構與剛毛排列是區分近緣種的決定性依據"
         },
         {
           "type": "text",
@@ -4047,7 +4047,7 @@ const defaultQuestions = {
           "content": "內含能分泌費洛蒙的特殊腺體，其孔洞大小是區分地理亞種的唯一指標"
         }
       ],
-      "correct": 0,
+      "correct": 1,
       "explanation": "Armadillidium corcyraeum 或某些地中海特有種，其雄性個體的生殖附肢（Pleopodal exopodite I/II）在顯微鏡下具有什麼高階分類鑑別價值？（其特化的交接刺結構與剛毛排列是區分近緣種的決定性依據）"
     },
     {
@@ -4058,11 +4058,11 @@ const defaultQuestions = {
       "options": [
         {
           "type": "text",
-          "content": "由 Y-器官分泌，受來自眼柄/頭部竇腺複合體的蛻皮抑制激素（MIH）負回饋調控"
+          "content": "由大顎腺分泌，受腦下垂體釋放的促甲狀腺素激發進行正回饋加速"
         },
         {
           "type": "text",
-          "content": "由大顎腺分泌，受腦下垂體釋放的促甲狀腺素激發進行正回饋加速"
+          "content": "由 Y-器官分泌，受來自眼柄/頭部竇腺複合體的蛻皮抑制激素（MIH）負回饋調控"
         },
         {
           "type": "text",
@@ -4073,7 +4073,7 @@ const defaultQuestions = {
           "content": "由腹神經索的神經分泌細胞釋放，受環境光照強短的生理時鐘直接控制"
         }
       ],
-      "correct": 0,
+      "correct": 1,
       "explanation": "試述鼠婦的「蛻皮激素（Ecdysone）」是由哪一個內分泌腺體釋放，並受抑制激素（Inhibiting hormone）如何調控？（由 Y-器官分泌，受來自眼柄/頭部竇腺複合體的蛻皮抑制激素（MIH）負回饋調控）"
     },
     {
@@ -4084,7 +4084,7 @@ const defaultQuestions = {
       "options": [
         {
           "type": "text",
-          "content": "維持穩定的弱酸性環境，並提供持續釋放腐殖酸與微生物的緩衝能力"
+          "content": "吸引大量土壤線蟲進駐，作為雨林鼠婦日常主要的蛋白質補充來源"
         },
         {
           "type": "text",
@@ -4096,10 +4096,10 @@ const defaultQuestions = {
         },
         {
           "type": "text",
-          "content": "吸引大量土壤線蟲進駐，作為雨林鼠婦日常主要的蛋白質補充來源"
+          "content": "維持穩定的弱酸性環境，並提供持續釋放腐殖酸與微生物的緩衝能力"
         }
       ],
-      "correct": 0,
+      "correct": 3,
       "explanation": "為什麼在佈置高濕度雨林屬（如 Cubaris 或 Merulanella）的飼養箱時，底土必須含有豐富的「泥炭苔與腐植質複合層」？（維持穩定的弱酸性環境，並提供持續釋放腐殖酸與微生物的緩衝能力）"
     },
     {
@@ -4110,11 +4110,11 @@ const defaultQuestions = {
       "options": [
         {
           "type": "text",
-          "content": "呼吸系統從鰓演化為內部氣管/偽氣管，以及排泄系統由排泄氨改為陸生適應"
+          "content": "神經系統從網狀神經完全集中為高度發達的大腦與小腦複合結構"
         },
         {
           "type": "text",
-          "content": "神經系統從網狀神經完全集中為高度發達的大腦與小腦複合結構"
+          "content": "呼吸系統從鰓演化為內部氣管/偽氣管，以及排泄系統由排泄氨改為陸生適應"
         },
         {
           "type": "text",
@@ -4125,7 +4125,7 @@ const defaultQuestions = {
           "content": "運動系統從原本的游泳用胸肢全面轉化為飛行用的膜質翅膀構造"
         }
       ],
-      "correct": 0,
+      "correct": 1,
       "explanation": "檢視陸生等足類的系統發育樹（Phylogenetic tree），牠們從水生轉為陸生的演化路徑中，哪一個生理系統的改造最為艱難？（呼吸系統從鰓演化為內部氣管/偽氣管，以及排泄系統由排泄氨改為陸生適應）"
     },
     {
@@ -4136,7 +4136,7 @@ const defaultQuestions = {
       "options": [
         {
           "type": "text",
-          "content": "萜烯類或低分子量脂肪酸衍生物"
+          "content": "高濃度的強酸性鹽類水溶液，接觸皮膚會引起強烈灼燒感"
         },
         {
           "type": "text",
@@ -4144,14 +4144,14 @@ const defaultQuestions = {
         },
         {
           "type": "text",
-          "content": "高濃度的強酸性鹽類水溶液，接觸皮膚會引起強烈灼燒感"
+          "content": "萜烯類或低分子量脂肪酸衍生物"
         },
         {
           "type": "text",
           "content": "帶有強烈腐臭味的硫化物氣體，主要用於模擬動物屍體以混淆視聽"
         }
       ],
-      "correct": 0,
+      "correct": 2,
       "explanation": "某些鼠婦品系在遭遇劇烈震動時會釋放微量的「揮發性防禦有機分子」，這些分子的主要化學結構通常包含哪一類化合物？（萜烯類或低分子量脂肪酸衍生物）"
     },
     {
@@ -4162,7 +4162,7 @@ const defaultQuestions = {
       "options": [
         {
           "type": "text",
-          "content": "土壤細菌、放線菌與真菌群落"
+          "content": "飼養箱內種植的活體苔蘚根系直接吸收並轉化"
         },
         {
           "type": "text",
@@ -4170,14 +4170,14 @@ const defaultQuestions = {
         },
         {
           "type": "text",
-          "content": "飼養箱內種植的活體苔蘚根系直接吸收並轉化"
+          "content": "土壤細菌、放線菌與真菌群落"
         },
         {
           "type": "text",
           "content": "空氣中的紫外線照射進行光化學降解作用"
         }
       ],
-      "correct": 0,
+      "correct": 2,
       "explanation": "飼養箱內的「生物碳循環」中，鼠婦將落葉分解為微細糞便後，下一階段主要依賴什麼生物將其轉化為植物可吸收的無機鹽？（土壤細菌、放線菌與真菌群落）"
     },
     {
@@ -4214,11 +4214,11 @@ const defaultQuestions = {
       "options": [
         {
           "type": "text",
-          "content": "Leucistic 保留了眼部的黑色素，通常在視力與對光的適應力上遠優於 Albino"
+          "content": "Leucistic 屬於顯性遺傳，而 Albino 屬於性聯遺傳，兩者無法在同一品系共存"
         },
         {
           "type": "text",
-          "content": "Leucistic 屬於顯性遺傳，而 Albino 屬於性聯遺傳，兩者無法在同一品系共存"
+          "content": "Leucistic 保留了眼部的黑色素，通常在視力與對光的適應力上遠優於 Albino"
         },
         {
           "type": "text",
@@ -4229,7 +4229,7 @@ const defaultQuestions = {
           "content": "Leucistic 個體完全不具備繁殖能力，而 Albino 則擁有超乎常人的產卵數"
         }
       ],
-      "correct": 0,
+      "correct": 1,
       "explanation": "基因突變中的「Leucistic」（黃化/體色退化但不影響眼球顏色）與「Albino」（白化且紅眼）在繁殖育種上的最大基因差異是什麼？（Leucistic 保留了眼部的黑色素，通常在視力與對光的適應力上遠優於 Albino）"
     },
     {
@@ -4240,7 +4240,7 @@ const defaultQuestions = {
       "options": [
         {
           "type": "text",
-          "content": "「碳源輸入量 = 鼠婦與分解者消耗量 + 微生物降解率」，並嚴格鎖定 VPD、碳酸鈣補給與乾濕分區的動態恆定"
+          "content": "「嚴格杜絕任何跳蟲與其他昆蟲進入，僅保留單一純種鼠婦以避免食物競爭」"
         },
         {
           "type": "text",
@@ -4252,10 +4252,10 @@ const defaultQuestions = {
         },
         {
           "type": "text",
-          "content": "「嚴格杜絕任何跳蟲與其他昆蟲進入，僅保留單一純種鼠婦以避免食物競爭」"
+          "content": "「碳源輸入量 = 鼠婦與分解者消耗量 + 微生物降解率」，並嚴格鎖定 VPD、碳酸鈣補給與乾濕分區的動態恆定"
         }
       ],
-      "correct": 0,
+      "correct": 3,
       "explanation": "在建構一個完美的、可自主運作數年不需換土的頂級生物活性鼠婦飼養生態缸時，最核心的系統動態平衡公式是什麼？（「碳源輸入量 = 鼠婦與分解者消耗量 + 微生物降解率」，並嚴格鎖定 VPD、碳酸鈣補給與乾濕分區的動態恆定）"
     }
   ]
@@ -4283,8 +4283,8 @@ const IsopodGameWithLeaderboard = () => {
   const [newUnlockedCards, setNewUnlockedCards] = useState([]);
   const [showCardUnlock, setShowCardUnlock] = useState(false);
   const [cardCollection, setCardCollection] = useState(initializeCardCollection());
-const [selectedCardId, setSelectedCardId] = useState(null);
-  
+  const [selectedCardId, setSelectedCardId] = useState(null);
+  const [hasAnswered, setHasAnswered] = useState(false);
  
 
 useEffect(() => {
@@ -4433,7 +4433,11 @@ const loadLeaderboard = async () => {
   };
 
   const handleAnswer = (optionIndex) => {
-    const isCorrect = questions[currentQuestion].correct === optionIndex;
+    // 如果已经答过这题，不再接受点击
+  if (hasAnswered) return;
+  
+  setHasAnswered(true);  // ← 立即禁用再次点击
+	const isCorrect = questions[currentQuestion].correct === optionIndex;
     playSound(isCorrect ? 'correct' : 'wrong');
     
     setAnswers([...answers, optionIndex]);
@@ -4442,23 +4446,13 @@ const loadLeaderboard = async () => {
     }
     
     setTimeout(() => {
-      if (currentQuestion < questions.length - 1) {
-        setCurrentQuestion(currentQuestion + 1);
-      } else {
-        // 游戏结束，更新卡片
-        const updatedCollection = updateCardStats(difficulty, score + (isCorrect ? 1 : 0), { ...cardCollection });
-        const { unlockedCards } = checkAndUnlockCards(updatedCollection);
-        
-        if (unlockedCards.length > 0) {
-          unlockedCards.forEach(() => playSound('unlock'));
-          setNewUnlockedCards(unlockedCards);
-          setShowCardUnlock(true);
-        }
-        
-        setCardCollection(updatedCollection);
-        setGameState('results');
-      }
-    }, 500);
+    if (currentQuestion < questions.length - 1) {
+      setCurrentQuestion(currentQuestion + 1);
+      setHasAnswered(false);  // ← 下一题时重置
+    } else {
+      setGameState('results');
+    }
+  }, 500);
   };
 
   
@@ -4475,6 +4469,7 @@ const loadLeaderboard = async () => {
     setTimeLeft(60);
     setShowCardUnlock(false);
     setNewUnlockedCards([]);
+	 setHasAnswered(false); 
   };
 
   const handleAdminLogin = (password) => {
@@ -4917,6 +4912,7 @@ if (isAdminMode) {
       key={idx}
       className="option-btn"
       onClick={() => handleAnswer(idx)}
+	  disabled={hasAnswered} 
       style={{
         padding: '8px',
         display: 'flex',
