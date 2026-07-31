@@ -66,73 +66,8 @@ const initializeCardCollection = () => {
   };
 };
 
-// ===== 检查并解锁卡片 =====
-const checkAndUnlockCards = (cardCollection) => {
-  const unlockedCards = [];
-  
-  cardDefinitions.forEach(card => {
-    if (cardCollection.collected_cards.includes(card.id)) {
-      return;
-    }
-    
-    let shouldUnlock = false;
-    
-    switch (card.condition.type) {
-      case 'total_correct':
-        shouldUnlock = cardCollection.total_correct >= card.condition.value;
-        break;
-      case 'easy_correct':
-        shouldUnlock = cardCollection.easy_correct >= card.condition.value;
-        break;
-      case 'hard_correct':
-        shouldUnlock = cardCollection.hard_correct >= card.condition.value;
-        break;
-      case 'hell_correct':
-        shouldUnlock = cardCollection.hell_correct >= card.condition.value;
-        break;
-      case 'perfect_easy':
-        shouldUnlock = cardCollection.perfect_easy >= card.condition.value;
-        break;
-      case 'perfect_hard':
-        shouldUnlock = cardCollection.perfect_hard >= card.condition.value;
-        break;
-      case 'perfect_hell':
-        shouldUnlock = cardCollection.perfect_hell >= card.condition.value;
-        break;
-      default:
-        shouldUnlock = false;
-    }
-    
-    if (shouldUnlock) {
-      unlockedCards.push(card.id);
-      cardCollection.collected_cards.push(card.id);
-    }
-  });
-  
-  localStorage.setItem('card_collection', JSON.stringify(cardCollection));
-  return { unlockedCards, cardCollection };
-};
 
-// ===== 更新卡片统计 =====
-const updateCardStats = (difficulty, score, cardCollection) => {
-  const isCorrect = score === 20;
-  
-  cardCollection.total_correct += score;
-  
-  if (difficulty === 'easy') {
-    cardCollection.easy_correct += score;
-    if (isCorrect) cardCollection.perfect_easy += 1;
-  } else if (difficulty === 'hard') {
-    cardCollection.hard_correct += score;
-    if (isCorrect) cardCollection.perfect_hard += 1;
-  } else if (difficulty === 'hell') {
-    cardCollection.hell_correct += score;
-    if (isCorrect) cardCollection.perfect_hell += 1;
-  }
-  
-  localStorage.setItem('card_collection', JSON.stringify(cardCollection));
-  return cardCollection;
-};
+
 
 // ===== 音效生成 =====
 const playSound = (type) => {
@@ -4282,7 +4217,7 @@ const IsopodGameWithLeaderboard = () => {
   
   const [newUnlockedCards, setNewUnlockedCards] = useState([]);
   const [showCardUnlock, setShowCardUnlock] = useState(false);
-  const [cardCollection, setCardCollection] = useState(initializeCardCollection());
+  const [cardCollection] = useState(initializeCardCollection());
   const [selectedCardId, setSelectedCardId] = useState(null);
   const [hasAnswered, setHasAnswered] = useState(false);
  
